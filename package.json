@@ -8,13 +8,18 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "��#\u0000 \u0000D\u0000i\u0000c\u0000e\u0000_\u0000a\u0000p\u0000p\u0000l\u0000y\u0000\r\u0000 \u0000",
   "devDependencies": {
+    "@cypress/webpack-preprocessor": "^6.0.2",
     "chai": "^5.1.1",
     "cypress": "^13.13.0",
     "cypress-fs": "^0.2.5"
   },
   "dependencies": {
-    "date-fns": "^3.6.0"
+    "@types/node": "^20.14.11",
+    "date-fns": "^3.6.0",
+    "json2csv": "^6.0.0-alpha.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.3"
   }
 }

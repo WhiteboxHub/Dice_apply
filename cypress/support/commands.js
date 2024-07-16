@@ -69,38 +69,73 @@ Cypress.Commands.add('visitDiceJobsPage', ({ keyword, start, pageSize}) => {
 //   return generateDiceSearchUrl(keyword, start, end);
 // });
 
+// cypress/support/commands.js
 
-Cypress.Commands.add('applyForJob', (jobId) => {
-    cy.visit(`https://www.dice.com/job-detail/${jobId}`)
-      .then(() => {
-        return cy.wait(15000); // Adjust the wait time as necessary
-      })
-      .get('.hydrated') // Selects an element with class 'hydrated'
-      .shadow() // Accesses the shadow DOM within the selected element
-      .find('button')
-      .then(($button) => {
-        if ($button.length > 0 && $button.text().includes('Applied')) {
-          const errorMessage = `Job with ID ${jobId} has already been applied.`;
-          cy.logError(errorMessage);
-        } else if ($button.length > 0 && $button.text().includes('Easy apply')) {
-          cy.logInfo(`Easy apply button found for job ID: ${jobId}`);
-          return cy.get('#applyButton > .hydrated').click()
-            .then(() => {
-              return cy.contains('span[data-v-5a80815f]', 'Next', { timeout: 10000 }).click();
-            })
-            .then(() => {
-              return cy.contains('span[data-v-5a80815f]', 'Submit', { timeout: 10000 }).click();
+
+const path = require('path');
+
+
+Cypress.Commands.add('applyForJob', ({ jobId, timestamp, status }) => {
+  cy.visit(`https://www.dice.com/job-detail/${jobId}`,{ failOnStatusCode: false})
+    .then(() => {
+      return cy.wait(25000); // Wait for interaction timeout after visit
+    })
+    .then(() => {
+      return cy.get('.hydrated')
+        .shadow()
+        .find('button')
+        .then(($button) => {
+          if ($button.length > 0 && $button.text().includes('Applied')) {
+            const errorMessage = `${timestamp}-Job with ID ${jobId} has already been applied.`;
+            cy.task('logApplicationError', errorMessage); // Log to applylogs/error.log
+            return cy.task('writeCSV', {
+              filePath: 'cypress/fixtures/applied/job_applications.csv',
+              data: { jobId, timestamp, status: 'already applied' },
+              headers: ['jobId', 'timestamp', 'status'],
+              append: true // Append data to existing CSV
             });
-        } else if ($button.length > 0 && $button.hasClass('seds-button') && $button.hasClass('seds-button-primary') && $button.hasClass('seds-button-medium')) {
-          cy.logInfo(`Button with class '.seds-button.seds-button-primary.seds-button-medium' found for job ID: ${jobId}`);
-        } else if ($button.length > 0) {
-          const buttonText = $button.text().trim();
-          const errorMessage = `Unexpected button text found: "${buttonText}" for job ID: ${jobId}`;
-          cy.logError(errorMessage);
-        } else {
-          const errorMessage = `Button not found for job ID: ${jobId}`;
-          cy.logError(errorMessage);
-        }
-      });
-  });
-  
+          } else if ($button.length > 0 && $button.text().includes('Easy apply')) {
+            cy.task('logApplicationInfo', `${timestamp}-Easy apply button found for job ID: ${jobId}`); // Log to applylogs/info.log
+            return cy.get('#applyButton > .hydrated').click({ timeout: 10000 })
+              .then(() => cy.contains('span[data-v-5a80815f]', 'Next', { timeout: 10000 }).click())
+              .then(() => cy.contains('span[data-v-5a80815f]', 'Submit', { timeout:10000  }).click())
+              .then(() => {
+                cy.task('logApplicationInfo', `${timestamp}-Job with ID ${jobId} applied successfully.`);
+                return cy.task('writeCSV', {
+                  filePath: 'cypress/fixtures/applied/job_applications.csv',
+                  data: { jobId, timestamp, status: 'applied' },
+                  headers: ['jobId', 'timestamp', 'status'],
+                  append: true // Append data to existing CSV
+                });
+              });
+          } else if ($button.length > 0 && $button.hasClass('seds-button') && $button.hasClass('seds-button-primary') && $button.hasClass('seds-button-medium')) {
+            cy.task('logApplicationInfo', `${timestamp}Already applied button found for job ID: ${jobId}`); // Log to applylogs/info.log
+            return cy.task('writeCSV', {
+              filePath: 'cypress/fixtures/applied/job_applications.csv',
+              data: { jobId, timestamp, status: 'already applied' },
+              headers: ['jobId', 'timestamp', 'status'],
+              append: true // Append data to existing CSV
+            });
+          } else if ($button.length > 0) {
+            const buttonText = $button.text().trim();
+            const errorMessage = `${timestamp} Unexpected button text found: "${buttonText}" for job ID: ${jobId}`;
+            cy.task('logApplicationError', errorMessage); // Log to applylogs/error.log
+            return cy.task('writeCSV', {
+              filePath: 'cypress/fixtures/applied/job_applications.csv',
+              data: { jobId, timestamp, status: 'fail' },
+              headers: ['jobId', 'timestamp', 'status'],
+              append: true // Append data to existing CSV
+            });
+          } else {
+            const errorMessage = `Button not found for job ID: ${jobId}`;
+            cy.task('logApplicationError', errorMessage); // Log to applylogs/error.log
+            return cy.task('writeCSV', {
+              filePath: 'cypress/fixtures/applied/job_applications.csv',
+              data: { jobId, timestamp, status: 'fail' },
+              headers: ['jobId', 'timestamp', 'status'],
+              append: true // Append data to existing CSV
+            });
+          }
+        });
+    });
+});

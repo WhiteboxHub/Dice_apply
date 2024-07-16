@@ -3,7 +3,7 @@ const { format } = require('date-fns');
 
 const resultsDir = 'cypress/fixtures/extracted/';
 const logsDir = 'cypress/logs/';
-const logFileName = `test-${format(new Date(), 'yyyy-MM-dd-HH-mm-ss')}.log`;
+const logFileName = `${format(new Date(), 'yyyy-MM-dd-HH-mm-ss')}Jobids.log`;
 
 const ensureDirectoryExistence = (dir) => {
   cy.task('ensureDirectoryExistence', dir);
@@ -13,12 +13,11 @@ const logToFile = (message) => {
   const timestamp = format(new Date(), 'yyyy-MM-dd HH:mm:ss');
   const logMessage = `[${timestamp}] ${message}\n`;
   cy.log(logMessage);
-  cy.writeFile(path.join(logsDir, logFileName), logMessage, { flag: 'a+', timeout: 20000});
+  cy.writeFile(path.join(logsDir, logFileName), logMessage, { flag: 'a+', timeout: 20000 });
 };
 
 describe('Dice Jobs Scraper', () => {
   const keywords = Cypress.config('jobKeywords');
-  let pageSize = Cypress.config('pageCount');
 
   before(() => {
     ensureDirectoryExistence(resultsDir);
@@ -31,16 +30,16 @@ describe('Dice Jobs Scraper', () => {
     let jobIdSet = new Set();
 
     beforeEach(() => {
-      cy.writeFile(path.join(logsDir, logFileName), `=== Starting Dice Jobs Scraper Tests for keyword: "${keyword}" ===\n`, { flag: 'a+' });
+      cy.writeFile(path.join(logsDir, logFileName), `=== Starting Dice Jobs Scraper Tests for keyword: "${keyword}" ===\n`, { flag: 'a+' }, { timeout: 10000 });
       jobIdSet = new Set(); // Reset jobIdSet for each keyword
     });
 
     it(`should fetch jobs for "${keyword}"`, function () {
       logToFile(`Fetching jobs for keyword: "${keyword}"`);
-
+      const pageSize = Cypress.config('pageCount');
       let start = 1;
-      let keepLooping = true;
       const increment = 100;
+      let keepLooping = true;
 
       const performSearch = () => {
         if (!keepLooping) {
@@ -61,7 +60,7 @@ describe('Dice Jobs Scraper', () => {
               keepLooping = false;
             } else {
               start += increment;
-              pageSize += increment;
+              cy.wait(3000); // Increased delay to reduce load
               performSearch();
             }
           });
@@ -77,8 +76,7 @@ describe('Dice Jobs Scraper', () => {
         cy.task('writeJsonFile', { filePath, data: { ids: jobIds } })
           .then(() => {
             logToFile(`=== Job IDs saved to: ${filePath} ===`);
-
-          })
+          });
       } else {
         logToFile('No job IDs collected to save.');
       }

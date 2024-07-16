@@ -23,7 +23,9 @@ describe('Apply for Jobs', () => {
 
                 // Iterate through each job ID and apply for job
                 cy.wrap(jobIds).each((currentJobId) => {
-                    cy.applyForJob(currentJobId); // Custom Cypress command to apply for the job
+                    const timestamp = new Date().toISOString().replace(/T/, ' ').replace(/\..+/, '');
+                    const status = ' '; 
+                     cy.applyForJob({ jobId: currentJobId, timestamp, status }); // Custom Cypress command to apply for the job
                 });
             });
         });
