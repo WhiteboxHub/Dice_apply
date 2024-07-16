@@ -29,9 +29,9 @@
 
   
  Cypress.Commands.add('loginDice', () => {
-    const username = Cypress.env("Dice_username");
+    const username = Cypress.config("Dice_username");
     
-    const password = Cypress.env("Dice_password");
+    const password = Cypress.config("Dice_password");
 
 
     // Increase pageLoadTimeout for this specific visit\
