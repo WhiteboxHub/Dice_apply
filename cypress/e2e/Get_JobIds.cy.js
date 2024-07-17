@@ -62,6 +62,7 @@ describe('Dice Jobs Scraper', () => {
               keepLooping = false;
             } else {
               start += increment;
+              pageSize += increment;
               cy.wait(3000); // Increased delay to reduce load
               performSearch();
             }
