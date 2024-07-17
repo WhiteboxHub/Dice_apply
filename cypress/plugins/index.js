@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 const { getFilesFromDirectory } = require('./getFiles');
 // Function to append message to a file
-function appendToFile(filePath, message) {
+const appendToFile = (filePath, message) => {
   try {
     fs.appendFileSync(filePath, `${message}\n`);
     return true;
@@ -10,7 +10,7 @@ function appendToFile(filePath, message) {
     console.error('Error appending to file', err);
     return false;
   }
-}
+};
 function ensureDirectoryExistence(filePath) {
   const dirname = path.dirname(filePath);
   if (!fs.existsSync(dirname)) {
@@ -53,7 +53,7 @@ function writeCSV(filePath, data, headers, append = true) {
 // Define custom Cypress commands for file system operations
 module.exports = (on, config) => {
   on('task', {
-     ensureDirectoryExistence(filePath) {
+          ensureDirectoryExistence(filePath) {
           ensureDirectoryExistence(filePath);
           return null;
         },

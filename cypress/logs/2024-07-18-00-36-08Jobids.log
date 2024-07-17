@@ -1,5 +1,3 @@
-=== Starting Dice Jobs Scraper Tests for keyword: "Machine Learning Engineer" ===
-=== Starting Dice Jobs Scraper Tests for keyword: "Machine Learning" ===
 === Starting Dice Jobs Scraper Tests for keyword: "ML Engineer" ===
 === Starting Dice Jobs Scraper Tests for keyword: "Artificial Intelligence" ===
 === Starting Dice Jobs Scraper Tests for keyword: "AI Engineer" ===
@@ -28,4 +26,8 @@
 === Starting Dice Jobs Scraper Tests for keyword: "Business Intelligence Analyst" ===
 === Starting Dice Jobs Scraper Tests for keyword: "Analytics Engineer" ===
 === Starting Dice Jobs Scraper Tests for keyword: "Data Science Manager" ===
-[2024-07-17 23:31:37] Fetching jobs for keyword: "Machine Learning Engineer"
+=== Starting Dice Jobs Scraper Tests for keyword: "Analytics Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Data Science Manager" ===
+[2024-07-18 00:36:21] Fetching jobs for keyword: "ML Engineer"
+[2024-07-18 00:36:59] Job ID cfc4c0d5-89b4-4679-96d2-bf60c1c89653 added to set for keyword "ML Engineer"
+[2024-07-18 00:36:59] Job ID f736f1a5-109d-471a-adbc-b02ed1bf68f6 added to set for keyword "ML Engineer"
