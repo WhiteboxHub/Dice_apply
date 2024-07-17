@@ -1,4 +1,6 @@
+
 const path = require('path');
+
 const { format } = require('date-fns');
 
 const resultsDir = 'cypress/fixtures/extracted/';

@@ -54,7 +54,7 @@ Cypress.Commands.add('visitDiceJobsPage', ({ keyword, start, pageSize}) => {
     const url = `https://www.dice.com/jobs?q=${(keyword)}&page=${start}&pageSize=${pageSize}`;
     cy.log(url);
     cy.visit(url);
-    cy.wait(5000);
+    cy.wait(10000);
 });
 
 // commands.js
@@ -69,7 +69,9 @@ Cypress.Commands.add('visitDiceJobsPage', ({ keyword, start, pageSize}) => {
 //   return generateDiceSearchUrl(keyword, start, end);
 // });
 
-// cypress/support/commands.js
+
+
+
 
 
 const path = require('path');

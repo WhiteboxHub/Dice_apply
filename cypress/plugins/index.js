@@ -11,7 +11,12 @@ function appendToFile(filePath, message) {
     return false;
   }
 }
-
+function ensureDirectoryExistence(filePath) {
+  const dirname = path.dirname(filePath);
+  if (!fs.existsSync(dirname)) {
+    fs.mkdirSync(dirname, { recursive: true });
+  }
+}
 // Function to convert JSON to CSV format
 function convertToCSV(data, headers) {
   const csvRows = [];
@@ -48,6 +53,10 @@ function writeCSV(filePath, data, headers, append = true) {
 // Define custom Cypress commands for file system operations
 module.exports = (on, config) => {
   on('task', {
+     ensureDirectoryExistence(filePath) {
+          ensureDirectoryExistence(filePath);
+          return null;
+        },
     readJsonFile(filePath) {
       try {
         const fileContent = fs.readFileSync(filePath, 'utf8');
@@ -70,21 +79,25 @@ module.exports = (on, config) => {
     },
     logInfo(message) {
       const logPath = path.join(__dirname, '..', 'cypress', 'logs', 'info.log');
+      ensureDirectoryExistence(logPath);
       appendToFile(logPath, message);
       return null;
     },
     logError(message) {
       const logPath = path.join(__dirname, '..', 'cypress', 'logs', 'error.log');
+      ensureDirectoryExistence(logPath);
       appendToFile(logPath, message);
       return null;
     },
     logApplicationInfo(message) {
-      const logPath = path.join(__dirname, '..', 'applylogs', 'info.log');
+      const logPath = path.join(__dirname, '..',  'applylogs', 'info.log');
+      ensureDirectoryExistence(logPath);
       appendToFile(logPath, message);
       return null;
     },
     logApplicationError(message) {
       const logPath = path.join(__dirname, '..', 'applylogs', 'error.log');
+      ensureDirectoryExistence(logPath);
       appendToFile(logPath, message);
       return null;
     },
