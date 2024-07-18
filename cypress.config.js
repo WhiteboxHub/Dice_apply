@@ -8,12 +8,11 @@ module.exports = defineConfig({
     pageLoadTimeout: 100000,
     defaultCommandTimeout: 10000,
     pageCount: 100,
-    Dice_username:"",
-    Dice_password:"",
+    Dice_username:"mohammadyousaf.ip@gmail.com",
+    Dice_password:"Innovapath@1",
     chromeWebSecurity: false,
     jobKeywords: [
     
-      "ML Engineer",
       "Artificial Intelligence",
       "AI Engineer",
       "Data Scientist",

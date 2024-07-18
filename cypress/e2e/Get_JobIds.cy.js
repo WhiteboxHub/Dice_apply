@@ -36,36 +36,55 @@ describe('Dice Jobs Scraper', () => {
 
     it(`should fetch jobs for "${keyword}"`, function () {
       logToFile(`Fetching jobs for keyword: "${keyword}"`);
-      let pageSize = Cypress.config('pageCount');
-      let start = 1;
-      const increment = 100;
-      let keepLooping = true;
+      const pageSize = Cypress.config('pageCount');
+      const start = 1;
+      let startPage = start;
+      let endPage = pageSize;
+      //const increment = 100;
+      //let keepLooping = true;
 
       const performSearch = async () => {
-        if (!keepLooping) {
+       // if (!keepLooping) {
           logToFile(`Stopping search loop for keyword: "${keyword}"`);
-          return;
-        }
+          //return;
+      //  }
 
         await cy.visitDiceJobsPage({ keyword, start, pageSize });
 
-        await cy.get('.card-title-link.normal', { timeout: 10000 }).each(($el) => {
-          const jobId = $el.attr('id');
-          if (jobId) {
-            jobIdSet.add(jobId);
-            logToFile(`Job ID ${jobId} added to set for keyword "${keyword}"`);
-          }
-        });
+        // await cy.get('.card-title-link.normal', { timeout: 10000 }).each(($el) => {
+        //   const jobId = $el.attr('id');
+        //   if (jobId) {
+        //     jobIdSet.add(jobId);
+        //     logToFile(`Job ID ${jobId} added to set for keyword "${keyword}"`);
+        //   }
+        // });
 
-        if (Cypress.$('.card-title-link.normal').length === 0) {
-          logToFile(`No more job cards found for keyword "${keyword}". Stopping.`);
-          keepLooping = false;
-        } else {
-          start += increment;
-          pageSize += increment;
-          await cy.wait(3000); // Increased delay to reduce load
-          await performSearch();
+        // if (Cypress.$('.card-title-link.normal').length === 0) {
+        //   logToFile(`No more job cards found for keyword "${keyword}". Stopping.`);
+        //   keepLooping = false;
+        // } else {
+        //   start += increment;
+        //   pageSize += increment;
+        //   await cy.wait(3000); // Increased delay to reduce load
+        //   await performSearch();
+        // }
+
+    
+        
+        for (let pageNumber = startPage; pageNumber <= endPage; pageNumber++) {
+          cy.contains('a.page-link', `${pageNumber}`).click({ force: true });
+           cy.get('.card-title-link.normal', { timeout: 10000 }).each(($el) => {
+               const jobId = $el.attr('id');
+              if (jobId) {
+                 jobIdSet.add(jobId);
+                logToFile(`Job ID ${jobId} added to set for keyword "${keyword}"`);
+              }
+             });
+          cy.wait(1000); // Adjust time based on your page's animation duration
         }
+        
+  
+
       };
 
       performSearch();
