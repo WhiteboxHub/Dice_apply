@@ -13,7 +13,7 @@ const logToFile = (message) => {
   const timestamp = format(new Date(), 'yyyy-MM-dd HH:mm:ss');
   const logMessage = `[${timestamp}] ${message}\n`;
   cy.log(logMessage);
-  cy.writeFile(path.join(logsDir, logFileName), logMessage, { flag: 'a+', timeout: 20000 });
+  cy.writeFile(path.join(logsDir, logFileName), logMessage, { flag: 'a+', timeout: 5000 });
 };
 
 describe('Dice Jobs Scraper', () => {
@@ -30,7 +30,7 @@ describe('Dice Jobs Scraper', () => {
     let jobIdSet = new Set();
 
     beforeEach(() => {
-      cy.writeFile(path.join(logsDir, logFileName), `=== Starting Dice Jobs Scraper Tests for keyword: "${keyword}" ===\n`, { flag: 'a+' }, { timeout: 10000 });
+      cy.writeFile(path.join(logsDir, logFileName), `=== Starting Dice Jobs Scraper Tests for keyword: "${keyword}" ===\n`, { flag: 'a+' }, { timeout: 5000 });
       jobIdSet = new Set(); // Reset jobIdSet for each keyword
     });
 
@@ -38,8 +38,8 @@ describe('Dice Jobs Scraper', () => {
       logToFile(`Fetching jobs for keyword: "${keyword}"`);
       const pageSize = Cypress.config('pageCount');
       const start = 1;
-      let startPage = start;
-      let endPage = pageSize;
+      //let startPage = start;
+     // let endPage = pageSize;
       //const increment = 100;
       //let keepLooping = true;
 
@@ -51,18 +51,19 @@ describe('Dice Jobs Scraper', () => {
 
         await cy.visitDiceJobsPage({ keyword, start, pageSize });
 
-        // await cy.get('.card-title-link.normal', { timeout: 10000 }).each(($el) => {
-        //   const jobId = $el.attr('id');
-        //   if (jobId) {
-        //     jobIdSet.add(jobId);
-        //     logToFile(`Job ID ${jobId} added to set for keyword "${keyword}"`);
-        //   }
-        // });
+        await cy.get('.card-title-link.normal', { timeout: 5000 }).each(($el) => {
+          const jobId = $el.attr('id');
+          if (jobId) {
+            jobIdSet.add(jobId);
+            logToFile(`Job ID ${jobId} added to set for keyword "${keyword}"`);
+          }
+        });
 
-        // if (Cypress.$('.card-title-link.normal').length === 0) {
-        //   logToFile(`No more job cards found for keyword "${keyword}". Stopping.`);
-        //   keepLooping = false;
-        // } else {
+        if (Cypress.$('.card-title-link.normal').length === 0) {
+          logToFile(`No more job cards found for keyword "${keyword}". Stopping.`);
+        //  keepLooping = false;
+        } 
+        // else {
         //   start += increment;
         //   pageSize += increment;
         //   await cy.wait(3000); // Increased delay to reduce load
@@ -71,21 +72,21 @@ describe('Dice Jobs Scraper', () => {
 
     
         
-        for (let pageNumber = startPage; pageNumber <= endPage; pageNumber++) {
-          cy.contains('a.page-link', `${pageNumber}`).click({ force: true });
-           cy.get('.card-title-link.normal', { timeout: 10000 }).each(($el) => {
-               const jobId = $el.attr('id');
-              if (jobId) {
-                 jobIdSet.add(jobId);
-                logToFile(`Job ID ${jobId} added to set for keyword "${keyword}"`);
-              }
-             });
-             if (Cypress.$('.card-title-link.normal').length === 0) {
-                logToFile(`No more job cards found for keyword "${keyword}". Stopping.`);
-              //   keepLooping = false;
-               }
-          cy.wait(1000); // Adjust time based on your page's animation duration
-        }
+        // for (let pageNumber = startPage; pageNumber <= endPage; pageNumber++) {
+        //   cy.contains('a.page-link', `${pageNumber}`).click({ force: true });
+        //    cy.get('.card-title-link.normal', { timeout: 10000 }).each(($el) => {
+        //        const jobId = $el.attr('id');
+        //       if (jobId) {
+        //          jobIdSet.add(jobId);
+        //         logToFile(`Job ID ${jobId} added to set for keyword "${keyword}"`);
+        //       }
+        //      });
+        //      if (Cypress.$('.card-title-link.normal').length === 0) {
+        //         logToFile(`No more job cards found for keyword "${keyword}". Stopping.`);
+        //       //   keepLooping = false;
+        //        }
+        //   cy.wait(1000); // Adjust time based on your page's animation duration
+        // }
         
   
 
