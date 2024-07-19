@@ -80,6 +80,10 @@ describe('Dice Jobs Scraper', () => {
                 logToFile(`Job ID ${jobId} added to set for keyword "${keyword}"`);
               }
              });
+             if (Cypress.$('.card-title-link.normal').length === 0) {
+                logToFile(`No more job cards found for keyword "${keyword}". Stopping.`);
+              //   keepLooping = false;
+               }
           cy.wait(1000); // Adjust time based on your page's animation duration
         }
         

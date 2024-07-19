@@ -76,7 +76,7 @@ Cypress.Commands.add('applyForJob', ({ jobId, timestamp, status }) => {
     })
     .then(() => {
       // Wait an additional 10 seconds after the page is fully loaded
-      cy.wait(25000); // Wait for 10 seconds
+      cy.wait(25000); // Wait for 25 seconds
     })
     .then(() => {
       // Perform actions and assertions on the element
