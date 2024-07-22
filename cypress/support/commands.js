@@ -76,6 +76,7 @@ Cypress.Commands.add('applyForJob', ({ jobId, timestamp }) => {
           });
         } else {
           // Check if the "Application Submitted" message is present
+          // cy.get('.appViewed > .hydrated')
           cy.wait(20000);
           cy.get('.hydrated', { timeout: 50000 }).should('be.visible');
           cy.get('.hydrated').shadow().find('p').then($button => {
