@@ -7,9 +7,9 @@ module.exports = defineConfig({
     includeShadowDom: true,
     pageLoadTimeout: 100000,
     defaultCommandTimeout: 10000,
-    pageCount: 100,
-    Dice_username:"",
-    Dice_password:"",
+    pageCount: 20,
+    Dice_username:"mohammadyousaf.ip@gmail.com",
+    Dice_password:"Innovapath@1",
     chromeWebSecurity: false,
     jobKeywords: [
     
@@ -20,8 +20,6 @@ module.exports = defineConfig({
       "ML Researcher",
       "Deep Learning Engineer",
       "Data Analyst",
-      "Data Engineer",
-      "Big Data Engineer",
       "AI Researcher",
       "NLP Engineer",
       "Computer Vision Engineer",

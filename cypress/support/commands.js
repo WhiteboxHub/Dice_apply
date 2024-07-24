@@ -60,7 +60,7 @@ Cypress.Commands.add('visitDiceJobsPage', ({ keyword, start, pageSize}) => {
 
 const path = require('path');
 Cypress.Commands.add('applyForJob', ({ jobId, timestamp }) => {
-  cy.visit(`https://www.dice.com/job-detail/${jobId}`, { failOnStatusCode: false, timeout: 15000 })
+  cy.visit(`https://www.dice.com/job-detail/${jobId}`, { failOnStatusCode: false, timeout: 35000 })
     .then(() => {
       cy.get('body').then($body => {
         if ($body.text().includes('Sorry this job is no longer available. The Similar Jobs shown below might interest you.')) {
@@ -77,8 +77,8 @@ Cypress.Commands.add('applyForJob', ({ jobId, timestamp }) => {
         } else {
           // Check if the "Application Submitted" message is present
           // cy.get('.appViewed > .hydrated')
-          cy.wait(20000);
-          cy.get('.hydrated', { timeout: 50000 }).should('be.visible');
+          cy.wait(15000);
+          cy.get('.hydrated', { timeout: 15000 });
           cy.get('.hydrated').shadow().find('p').then($button => {
             if ($button.length > 0) {
               const buttonText = $button.text().trim();
@@ -95,15 +95,15 @@ Cypress.Commands.add('applyForJob', ({ jobId, timestamp }) => {
                 });
               } else {
                 // Handle apply button
-                cy.wait(5000);
+                cy.wait(25000);
                 cy.get('.hydrated').shadow().find('button').then($button => {
                   if ($button.length > 0) {
                     const buttonText = $button.text().trim();
                     if (buttonText.includes('Easy apply')) {
                       cy.task('logApplicationInfo', `${timestamp} - Easy apply button found for job ID: ${jobId}`);
                       cy.get('#applyButton > .hydrated').click({ timeout: 5000 });
-                      cy.contains('span[data-v-5a80815f]', 'Next', { timeout: 5000 }).click();
-                      cy.contains('span[data-v-5a80815f]', 'Submit', { timeout: 5000 }).click()
+                      cy.contains('span[data-v-5a80815f]', 'Next', { timeout: 3000 }).click();
+                      cy.contains('span[data-v-5a80815f]', 'Submit', { timeout: 3000 }).click()
                         .then(() => {
                           cy.task('logApplicationInfo', `${timestamp} - Job with ID ${jobId} applied successfully.`);
                           return cy.task('writeCSV', {

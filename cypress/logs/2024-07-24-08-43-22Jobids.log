@@ -1,0 +1,870 @@
+=== Starting Dice Jobs Scraper Tests for keyword: "Artificial Intelligence" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "AI Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Data Scientist" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Data Science" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "ML Researcher" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Deep Learning Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Data Analyst" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "AI Researcher" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "NLP Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Computer Vision Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Data Mining Specialist" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Statistical Analyst" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Quantitative Analyst" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Predictive Modeler" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "AI/ML Developer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "LLM Specialist" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Machine Learning Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Machine Learning" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Applied Scientist" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Research Scientist" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "ML Ops Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "AI Solutions Architect" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Machine Learning Developer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "AI/ML Consultant" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Business Intelligence Analyst" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Analytics Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Data Science Manager" ===
+[2024-07-24 08:43:28] Fetching jobs for keyword: "Artificial Intelligence"
+[2024-07-24 08:43:28] Stopping search loop for keyword: "Artificial Intelligence"
+[2024-07-24 08:43:40] Job ID d5722b6b-1901-43cb-b73e-e549858f378a added to set for keyword "Artificial Intelligence"
+[2024-07-24 08:43:40] Job ID 5a5eaa40-2db7-4b9c-8fc1-e7c53a1dee9b added to set for keyword "Artificial Intelligence"
+[2024-07-24 08:43:40] Job ID 780b406d-af09-4714-97af-bbe1b4c3748f added to set for keyword "Artificial Intelligence"
+[2024-07-24 08:43:40] Job ID e7e417ac-8caa-43e4-b574-442d4de4c8f0 added to set for keyword "Artificial Intelligence"
+[2024-07-24 08:43:40] Job ID d05631ae-9368-4714-92a5-d01ba0981134 added to set for keyword "Artificial Intelligence"
+[2024-07-24 08:43:40] Job ID d3f7c4f7-238a-4c86-8f1e-4e76f9f8f447 added to set for keyword "Artificial Intelligence"
+[2024-07-24 08:43:40] Job ID c3e4727e-75dd-4f02-b21e-cc857f4cefc6 added to set for keyword "Artificial Intelligence"
+[2024-07-24 08:43:40] Job ID 05e7d946-a804-48f4-8870-999d74e24444 added to set for keyword "Artificial Intelligence"
+[2024-07-24 08:43:40] Job ID 73fc69b8-b70b-442a-bfc4-20e29280d4db added to set for keyword "Artificial Intelligence"
+[2024-07-24 08:43:40] Job ID f27e1600-3024-4841-8d82-0380d6ad98d4 added to set for keyword "Artificial Intelligence"
+[2024-07-24 08:43:40] Job ID b272df7e-09f1-47f0-9582-1f2f7552fb56 added to set for keyword "Artificial Intelligence"
+[2024-07-24 08:43:40] Job ID 8d83556c-0ded-4dd7-ae57-a72101c4cd63 added to set for keyword "Artificial Intelligence"
+[2024-07-24 08:43:40] Job ID a6e2c537-15ce-4cda-9d52-15b1838fc48c added to set for keyword "Artificial Intelligence"
+[2024-07-24 08:43:40] Job ID ee407b5a-2165-468f-b9db-1d9fb8d84288 added to set for keyword "Artificial Intelligence"
+[2024-07-24 08:43:40] Job ID 0907e500-ea1a-47d9-b493-f547b58f62b2 added to set for keyword "Artificial Intelligence"
+[2024-07-24 08:43:40] Job ID dfe1ee32-44f3-4775-87f9-517c48cfeacd added to set for keyword "Artificial Intelligence"
+[2024-07-24 08:43:40] Job ID a7f402c8-913f-4277-b42a-0b1594ecf5c1 added to set for keyword "Artificial Intelligence"
+[2024-07-24 08:43:40] Job ID 41e89c24-6a5c-4222-ac7e-090fecf39d54 added to set for keyword "Artificial Intelligence"
+[2024-07-24 08:43:40] Job ID a2cd737b-d915-41cb-bee7-ddd7f41f3d7e added to set for keyword "Artificial Intelligence"
+[2024-07-24 08:43:40] Job ID 0e8314b4-ce01-4da2-ac78-a8dfbbaef182 added to set for keyword "Artificial Intelligence"
+[2024-07-24 08:43:40] Job ID 20f8d1eb-67f0-48a1-864e-415b3a6fb0a9 added to set for keyword "Artificial Intelligence"
+[2024-07-24 08:43:40] Job ID 38c3ead6-7782-4aae-8f20-e2d661094612 added to set for keyword "Artificial Intelligence"
+[2024-07-24 08:43:40] Job ID 98998372-a400-4fbf-86fa-60e5cc1a1b5b added to set for keyword "Artificial Intelligence"
+[2024-07-24 08:43:42] === Job IDs saved to: cypress/fixtures/extracted/2024-07-24-08-43-22-Artificial Intelligence.json ===
+[2024-07-24 08:43:42] No job IDs collected to save.
+[2024-07-24 08:43:43] No job IDs collected to save.
+[2024-07-24 08:43:43] No job IDs collected to save.
+[2024-07-24 08:43:43] No job IDs collected to save.
+[2024-07-24 08:43:43] No job IDs collected to save.
+[2024-07-24 08:43:43] No job IDs collected to save.
+[2024-07-24 08:43:43] No job IDs collected to save.
+[2024-07-24 08:43:44] No job IDs collected to save.
+[2024-07-24 08:43:44] No job IDs collected to save.
+[2024-07-24 08:43:44] No job IDs collected to save.
+[2024-07-24 08:43:44] No job IDs collected to save.
+[2024-07-24 08:43:44] No job IDs collected to save.
+[2024-07-24 08:43:44] No job IDs collected to save.
+[2024-07-24 08:43:44] No job IDs collected to save.
+[2024-07-24 08:43:45] No job IDs collected to save.
+[2024-07-24 08:43:45] No job IDs collected to save.
+[2024-07-24 08:43:45] No job IDs collected to save.
+[2024-07-24 08:43:45] No job IDs collected to save.
+[2024-07-24 08:43:45] No job IDs collected to save.
+[2024-07-24 08:43:45] No job IDs collected to save.
+[2024-07-24 08:43:45] No job IDs collected to save.
+[2024-07-24 08:43:46] No job IDs collected to save.
+[2024-07-24 08:43:46] No job IDs collected to save.
+[2024-07-24 08:43:46] No job IDs collected to save.
+[2024-07-24 08:43:46] No job IDs collected to save.
+[2024-07-24 08:43:46] No job IDs collected to save.
+=== Starting Dice Jobs Scraper Tests for keyword: "Artificial Intelligence" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "AI Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Data Scientist" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Data Science" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "ML Researcher" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Deep Learning Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Data Analyst" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "AI Researcher" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "NLP Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Computer Vision Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Data Mining Specialist" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Statistical Analyst" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Quantitative Analyst" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Predictive Modeler" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "AI/ML Developer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "LLM Specialist" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Machine Learning Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Machine Learning" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Applied Scientist" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Research Scientist" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "ML Ops Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "AI Solutions Architect" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Machine Learning Developer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "AI/ML Consultant" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Business Intelligence Analyst" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Analytics Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Data Science Manager" ===
+[2024-07-24 08:43:49] Fetching jobs for keyword: "AI Engineer"
+[2024-07-24 08:43:49] Stopping search loop for keyword: "AI Engineer"
+[2024-07-24 08:43:56] Job ID d3f7c4f7-238a-4c86-8f1e-4e76f9f8f447 added to set for keyword "AI Engineer"
+[2024-07-24 08:43:56] Job ID c3e4727e-75dd-4f02-b21e-cc857f4cefc6 added to set for keyword "AI Engineer"
+[2024-07-24 08:43:56] Job ID 97ae7f61-4802-41f4-bb0c-7e8a866e463c added to set for keyword "AI Engineer"
+[2024-07-24 08:43:56] Job ID dfe1ee32-44f3-4775-87f9-517c48cfeacd added to set for keyword "AI Engineer"
+[2024-07-24 08:43:56] Job ID dffa4069-3cab-4244-b41c-87bbd277ecfa added to set for keyword "AI Engineer"
+[2024-07-24 08:43:56] Job ID ff13c23d-15ee-461c-b216-1cca90e21353 added to set for keyword "AI Engineer"
+[2024-07-24 08:43:56] Job ID bcb5ae5f-f745-4012-bb86-160266d1976f added to set for keyword "AI Engineer"
+[2024-07-24 08:43:57] Job ID 9753410b-62ad-4b43-9de5-4389dbdd4a0b added to set for keyword "AI Engineer"
+[2024-07-24 08:43:57] Job ID 9b485fdd-8666-400e-8011-6b171853a82d added to set for keyword "AI Engineer"
+[2024-07-24 08:43:57] Job ID 8a518293-2b4a-4128-92d0-c3b168cb26e5 added to set for keyword "AI Engineer"
+[2024-07-24 08:43:57] Job ID 5f3f070f-e94f-4da2-ad62-ef61bf815260 added to set for keyword "AI Engineer"
+[2024-07-24 08:43:57] Job ID 862eb2da-0d45-4c3b-bc44-3a73043e93c3 added to set for keyword "AI Engineer"
+[2024-07-24 08:43:57] Job ID 83b555ce-777a-4cf6-92ad-4454404e49ab added to set for keyword "AI Engineer"
+[2024-07-24 08:43:57] Job ID 8ecf52ed-38eb-4de1-b197-83c337e39bea added to set for keyword "AI Engineer"
+[2024-07-24 08:43:57] Job ID e63590ca-71b2-4785-a5f9-46ea04599eb9 added to set for keyword "AI Engineer"
+[2024-07-24 08:43:57] Job ID 27760b87-3473-4248-841e-193e0fb025b0 added to set for keyword "AI Engineer"
+[2024-07-24 08:43:57] Job ID 6d3fac99-df1c-41a8-b29a-f16edf804a13 added to set for keyword "AI Engineer"
+[2024-07-24 08:43:57] Job ID ab05cf5e-cff4-4f5f-bd67-590561c8d5ed added to set for keyword "AI Engineer"
+[2024-07-24 08:43:57] Job ID 09e2f7a8-71a4-4b79-aebb-81faf780443d added to set for keyword "AI Engineer"
+[2024-07-24 08:43:57] Job ID b195b23a-456e-4bfa-9e5b-731d45756023 added to set for keyword "AI Engineer"
+[2024-07-24 08:43:58] No job IDs collected to save.
+[2024-07-24 08:43:58] === Job IDs saved to: cypress/fixtures/extracted/2024-07-24-08-43-22-AI Engineer.json ===
+[2024-07-24 08:43:59] No job IDs collected to save.
+[2024-07-24 08:43:59] No job IDs collected to save.
+[2024-07-24 08:43:59] No job IDs collected to save.
+[2024-07-24 08:43:59] No job IDs collected to save.
+[2024-07-24 08:43:59] No job IDs collected to save.
+[2024-07-24 08:43:59] No job IDs collected to save.
+[2024-07-24 08:44:00] No job IDs collected to save.
+[2024-07-24 08:44:00] No job IDs collected to save.
+[2024-07-24 08:44:00] No job IDs collected to save.
+[2024-07-24 08:44:00] No job IDs collected to save.
+[2024-07-24 08:44:00] No job IDs collected to save.
+[2024-07-24 08:44:00] No job IDs collected to save.
+[2024-07-24 08:44:00] No job IDs collected to save.
+[2024-07-24 08:44:00] No job IDs collected to save.
+[2024-07-24 08:44:01] No job IDs collected to save.
+[2024-07-24 08:44:01] No job IDs collected to save.
+[2024-07-24 08:44:01] No job IDs collected to save.
+[2024-07-24 08:44:01] No job IDs collected to save.
+[2024-07-24 08:44:01] No job IDs collected to save.
+[2024-07-24 08:44:01] No job IDs collected to save.
+[2024-07-24 08:44:01] No job IDs collected to save.
+[2024-07-24 08:44:02] No job IDs collected to save.
+[2024-07-24 08:44:02] No job IDs collected to save.
+[2024-07-24 08:44:02] No job IDs collected to save.
+[2024-07-24 08:44:02] No job IDs collected to save.
+=== Starting Dice Jobs Scraper Tests for keyword: "Artificial Intelligence" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "AI Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Data Scientist" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Data Science" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "ML Researcher" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Deep Learning Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Data Analyst" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "AI Researcher" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "NLP Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Computer Vision Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Data Mining Specialist" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Statistical Analyst" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Quantitative Analyst" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Predictive Modeler" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "AI/ML Developer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "LLM Specialist" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Machine Learning Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Machine Learning" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Applied Scientist" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Research Scientist" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "ML Ops Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "AI Solutions Architect" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Machine Learning Developer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "AI/ML Consultant" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Business Intelligence Analyst" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Analytics Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Data Science Manager" ===
+[2024-07-24 08:44:04] Fetching jobs for keyword: "Data Scientist"
+[2024-07-24 08:44:04] Stopping search loop for keyword: "Data Scientist"
+[2024-07-24 08:44:11] Job ID 234e506a-59ec-4eae-b421-66d49adf87d8 added to set for keyword "Data Scientist"
+[2024-07-24 08:44:11] Job ID 5a5eaa40-2db7-4b9c-8fc1-e7c53a1dee9b added to set for keyword "Data Scientist"
+[2024-07-24 08:44:11] Job ID 87e3bdec-c911-4d99-91f4-4d3a13b24f4a added to set for keyword "Data Scientist"
+[2024-07-24 08:44:11] Job ID 11632e21-8d98-46cf-bdf6-717b49ea09a3 added to set for keyword "Data Scientist"
+[2024-07-24 08:44:11] Job ID da058833-4c7c-43cf-bdbc-9f472935ca35 added to set for keyword "Data Scientist"
+[2024-07-24 08:44:11] Job ID a3c59071-7503-4eb0-b212-21185cd142e2 added to set for keyword "Data Scientist"
+[2024-07-24 08:44:11] Job ID 4bde5ad4-75f3-415a-9758-c5ed3b9d36c0 added to set for keyword "Data Scientist"
+[2024-07-24 08:44:11] Job ID f13fd25d-e620-4aff-815b-1d6d553be98b added to set for keyword "Data Scientist"
+[2024-07-24 08:44:11] Job ID 899ad7c6-99f2-40c4-b827-14808396c8da added to set for keyword "Data Scientist"
+[2024-07-24 08:44:11] Job ID 2ef8efd9-b2b7-48ec-929a-80f7d27a3e61 added to set for keyword "Data Scientist"
+[2024-07-24 08:44:11] Job ID 60daa634-7f6d-4496-8c00-9cc0d9b3d27e added to set for keyword "Data Scientist"
+[2024-07-24 08:44:11] Job ID c3e4727e-75dd-4f02-b21e-cc857f4cefc6 added to set for keyword "Data Scientist"
+[2024-07-24 08:44:11] Job ID 3907b55a-318a-4f8a-b68d-eb0d048291f9 added to set for keyword "Data Scientist"
+[2024-07-24 08:44:11] Job ID 6e8f3b29-2379-40dc-ba15-59437a863ac7 added to set for keyword "Data Scientist"
+[2024-07-24 08:44:11] Job ID ff8af441-b827-49e7-b437-ec3467e6c0cb added to set for keyword "Data Scientist"
+[2024-07-24 08:44:11] Job ID 3d309129-c638-4ca6-8e50-2fee85e95f88 added to set for keyword "Data Scientist"
+[2024-07-24 08:44:11] Job ID 4a127b06-f5f1-4b4a-807a-6bf24176a916 added to set for keyword "Data Scientist"
+[2024-07-24 08:44:11] Job ID 35fe3988-2dbf-43b7-8ec8-6b8520951e03 added to set for keyword "Data Scientist"
+[2024-07-24 08:44:11] Job ID 81b76466-7303-43cd-9040-0b97757eab40 added to set for keyword "Data Scientist"
+[2024-07-24 08:44:11] Job ID 5ce4b4a3-54f6-4025-b1fa-360ca0dbd98a added to set for keyword "Data Scientist"
+[2024-07-24 08:44:11] Job ID 03cfb58f-12d8-4eae-a1b4-401c8f4ad5ce added to set for keyword "Data Scientist"
+[2024-07-24 08:44:11] Job ID 8e419e6b-234d-43e2-a676-1d0b5a18e962 added to set for keyword "Data Scientist"
+[2024-07-24 08:44:13] No job IDs collected to save.
+[2024-07-24 08:44:13] No job IDs collected to save.
+[2024-07-24 08:44:13] === Job IDs saved to: cypress/fixtures/extracted/2024-07-24-08-43-22-Data Scientist.json ===
+[2024-07-24 08:44:14] No job IDs collected to save.
+[2024-07-24 08:44:14] No job IDs collected to save.
+[2024-07-24 08:44:14] No job IDs collected to save.
+[2024-07-24 08:44:14] No job IDs collected to save.
+[2024-07-24 08:44:14] No job IDs collected to save.
+[2024-07-24 08:44:14] No job IDs collected to save.
+[2024-07-24 08:44:14] No job IDs collected to save.
+[2024-07-24 08:44:15] No job IDs collected to save.
+[2024-07-24 08:44:15] No job IDs collected to save.
+[2024-07-24 08:44:15] No job IDs collected to save.
+[2024-07-24 08:44:15] No job IDs collected to save.
+[2024-07-24 08:44:15] No job IDs collected to save.
+[2024-07-24 08:44:15] No job IDs collected to save.
+[2024-07-24 08:44:15] No job IDs collected to save.
+[2024-07-24 08:44:16] No job IDs collected to save.
+[2024-07-24 08:44:16] No job IDs collected to save.
+[2024-07-24 08:44:16] No job IDs collected to save.
+[2024-07-24 08:44:16] No job IDs collected to save.
+[2024-07-24 08:44:16] No job IDs collected to save.
+[2024-07-24 08:44:16] No job IDs collected to save.
+[2024-07-24 08:44:16] No job IDs collected to save.
+[2024-07-24 08:44:17] No job IDs collected to save.
+[2024-07-24 08:44:17] No job IDs collected to save.
+[2024-07-24 08:44:17] No job IDs collected to save.
+=== Starting Dice Jobs Scraper Tests for keyword: "Artificial Intelligence" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "AI Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Data Scientist" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Data Science" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "ML Researcher" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Deep Learning Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Data Analyst" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "AI Researcher" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "NLP Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Computer Vision Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Data Mining Specialist" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Statistical Analyst" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Quantitative Analyst" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Predictive Modeler" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "AI/ML Developer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "LLM Specialist" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Machine Learning Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Machine Learning" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Applied Scientist" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Research Scientist" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "ML Ops Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "AI Solutions Architect" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Machine Learning Developer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "AI/ML Consultant" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Business Intelligence Analyst" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Analytics Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Data Science Manager" ===
+[2024-07-24 08:44:19] Fetching jobs for keyword: "Data Science"
+[2024-07-24 08:44:19] Stopping search loop for keyword: "Data Science"
+[2024-07-24 08:44:29] Job ID 49cd0c4c-2fbf-44f8-bd8d-f6cac9cbf813 added to set for keyword "Data Science"
+[2024-07-24 08:44:29] Job ID 0907e500-ea1a-47d9-b493-f547b58f62b2 added to set for keyword "Data Science"
+[2024-07-24 08:44:29] Job ID f98271bb-e205-457f-bf3b-52db8161c6aa added to set for keyword "Data Science"
+[2024-07-24 08:44:29] Job ID 4eb46161-6cad-4729-9f35-48517c72b0e2 added to set for keyword "Data Science"
+[2024-07-24 08:44:29] Job ID 2163db7e-2d26-4094-ab27-2cd1bdefad58 added to set for keyword "Data Science"
+[2024-07-24 08:44:29] Job ID db4ae0de-b5e9-4bb3-9e3f-79080c5b0445 added to set for keyword "Data Science"
+[2024-07-24 08:44:29] Job ID cd1d25ff-fc71-4c40-afaa-5382c553068d added to set for keyword "Data Science"
+[2024-07-24 08:44:29] Job ID c4d0b336-b030-487f-9623-673ea88cec81 added to set for keyword "Data Science"
+[2024-07-24 08:44:29] Job ID 1daea521-4c7f-4541-b5f3-1fadd2ebcfd9 added to set for keyword "Data Science"
+[2024-07-24 08:44:29] Job ID 6f6e48bd-bd59-4db4-abd5-4da0f64e539f added to set for keyword "Data Science"
+[2024-07-24 08:44:29] Job ID cd327a26-c9e3-483b-aaee-82c0c9076480 added to set for keyword "Data Science"
+[2024-07-24 08:44:29] Job ID 269fdf3c-97b0-4a5a-ae9f-7f97ce850c99 added to set for keyword "Data Science"
+[2024-07-24 08:44:29] Job ID e0bdaf4c-e330-465e-a18e-096132b9ed57 added to set for keyword "Data Science"
+[2024-07-24 08:44:29] Job ID fcd2be81-5fbf-459c-bec1-92513ddd0ac2 added to set for keyword "Data Science"
+[2024-07-24 08:44:29] Job ID eea1545c-c095-4c7c-9af7-02c173319359 added to set for keyword "Data Science"
+[2024-07-24 08:44:29] Job ID a1f1e36e-aec8-4797-9c11-1dce201cbc2e added to set for keyword "Data Science"
+[2024-07-24 08:44:29] Job ID d5283a3e-4123-4ca9-96e5-9fbb7faf96e9 added to set for keyword "Data Science"
+[2024-07-24 08:44:29] Job ID 0a0e2964-eaf9-412d-8e70-032fcc5832c8 added to set for keyword "Data Science"
+[2024-07-24 08:44:29] Job ID ac96dfe2-11b9-4cf1-8902-5b30921e1a89 added to set for keyword "Data Science"
+[2024-07-24 08:44:29] Job ID 6f16c38b-9247-4be2-b92f-75d5f6db4d28 added to set for keyword "Data Science"
+[2024-07-24 08:44:31] No job IDs collected to save.
+[2024-07-24 08:44:31] No job IDs collected to save.
+[2024-07-24 08:44:31] No job IDs collected to save.
+[2024-07-24 08:44:32] === Job IDs saved to: cypress/fixtures/extracted/2024-07-24-08-43-22-Data Science.json ===
+[2024-07-24 08:44:32] No job IDs collected to save.
+[2024-07-24 08:44:32] No job IDs collected to save.
+[2024-07-24 08:44:32] No job IDs collected to save.
+[2024-07-24 08:44:32] No job IDs collected to save.
+[2024-07-24 08:44:33] No job IDs collected to save.
+[2024-07-24 08:44:33] No job IDs collected to save.
+[2024-07-24 08:44:33] No job IDs collected to save.
+[2024-07-24 08:44:33] No job IDs collected to save.
+[2024-07-24 08:44:33] No job IDs collected to save.
+[2024-07-24 08:44:34] No job IDs collected to save.
+[2024-07-24 08:44:34] No job IDs collected to save.
+[2024-07-24 08:44:34] No job IDs collected to save.
+[2024-07-24 08:44:34] No job IDs collected to save.
+[2024-07-24 08:44:34] No job IDs collected to save.
+[2024-07-24 08:44:34] No job IDs collected to save.
+[2024-07-24 08:44:34] No job IDs collected to save.
+[2024-07-24 08:44:35] No job IDs collected to save.
+[2024-07-24 08:44:35] No job IDs collected to save.
+[2024-07-24 08:44:35] No job IDs collected to save.
+[2024-07-24 08:44:35] No job IDs collected to save.
+[2024-07-24 08:44:35] No job IDs collected to save.
+[2024-07-24 08:44:35] No job IDs collected to save.
+[2024-07-24 08:44:35] No job IDs collected to save.
+=== Starting Dice Jobs Scraper Tests for keyword: "Artificial Intelligence" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "AI Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Data Scientist" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Data Science" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "ML Researcher" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Deep Learning Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Data Analyst" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "AI Researcher" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "NLP Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Computer Vision Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Data Mining Specialist" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Statistical Analyst" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Quantitative Analyst" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Predictive Modeler" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "AI/ML Developer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "LLM Specialist" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Machine Learning Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Machine Learning" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Applied Scientist" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Research Scientist" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "ML Ops Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "AI Solutions Architect" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Machine Learning Developer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "AI/ML Consultant" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Business Intelligence Analyst" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Analytics Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Data Science Manager" ===
+[2024-07-24 08:44:38] Fetching jobs for keyword: "ML Researcher"
+[2024-07-24 08:44:38] Stopping search loop for keyword: "ML Researcher"
+[2024-07-24 08:44:46] Job ID eb6a7c81-eddc-4c6c-b625-a97dcac84026 added to set for keyword "ML Researcher"
+[2024-07-24 08:44:46] Job ID 1a84f23e-2813-4df5-af3e-406c2ddd9825 added to set for keyword "ML Researcher"
+[2024-07-24 08:44:46] Job ID 57aad602-6153-4171-91db-6fb736dd27e7 added to set for keyword "ML Researcher"
+[2024-07-24 08:44:46] Job ID a13eac10-89de-4a0f-87c3-ba0ee6b2ab02 added to set for keyword "ML Researcher"
+[2024-07-24 08:44:46] Job ID 50cfbdec-9068-4dd4-83a0-7ecef6d58657 added to set for keyword "ML Researcher"
+[2024-07-24 08:44:46] Job ID ed79064b-a2ea-499e-b581-6da6a62aeeac added to set for keyword "ML Researcher"
+[2024-07-24 08:44:46] Job ID a568718d-a850-4bf0-9732-5ed2a83f38d0 added to set for keyword "ML Researcher"
+[2024-07-24 08:44:46] Job ID b57791ee-b628-4605-899a-7013ec795a1b added to set for keyword "ML Researcher"
+[2024-07-24 08:44:46] Job ID b2312bf1-0dfb-4465-8737-307a5cb1ce53 added to set for keyword "ML Researcher"
+[2024-07-24 08:44:46] Job ID 35c673df-809d-42fe-8e96-bf8b97fc9b4a added to set for keyword "ML Researcher"
+[2024-07-24 08:44:46] Job ID 2a58a409-2d21-4c99-ab5a-63f9da04cddb added to set for keyword "ML Researcher"
+[2024-07-24 08:44:46] Job ID 4c094da6-0470-4a01-810d-15b44d18994d added to set for keyword "ML Researcher"
+[2024-07-24 08:44:46] Job ID 8159d8eb-6fca-45ca-bc44-3d8b5f96e7e1 added to set for keyword "ML Researcher"
+[2024-07-24 08:44:46] Job ID 09fd13be-7808-4823-a1ef-621a9ffb694f added to set for keyword "ML Researcher"
+[2024-07-24 08:44:46] Job ID ef68f9bb-aa04-4de7-ac51-d474e1d2b8d7 added to set for keyword "ML Researcher"
+[2024-07-24 08:44:46] Job ID b81f0172-ab59-4ff5-aa37-974913d1a2f1 added to set for keyword "ML Researcher"
+[2024-07-24 08:44:46] Job ID bef8db1c-d20a-4f5a-84c6-7945ea9dd767 added to set for keyword "ML Researcher"
+[2024-07-24 08:44:46] Job ID 02697104-88e9-4592-acd0-82310741b1bd added to set for keyword "ML Researcher"
+[2024-07-24 08:44:46] Job ID 2962eded-7383-4ac4-bfb9-4284aaa5b757 added to set for keyword "ML Researcher"
+[2024-07-24 08:44:46] Job ID c6b1ebf8-ec15-4374-89b3-a4631d6bffa1 added to set for keyword "ML Researcher"
+[2024-07-24 08:44:48] No job IDs collected to save.
+[2024-07-24 08:44:48] No job IDs collected to save.
+[2024-07-24 08:44:48] No job IDs collected to save.
+[2024-07-24 08:44:49] No job IDs collected to save.
+[2024-07-24 08:44:49] === Job IDs saved to: cypress/fixtures/extracted/2024-07-24-08-43-22-ML Researcher.json ===
+[2024-07-24 08:44:49] No job IDs collected to save.
+[2024-07-24 08:44:49] No job IDs collected to save.
+[2024-07-24 08:44:49] No job IDs collected to save.
+[2024-07-24 08:44:50] No job IDs collected to save.
+[2024-07-24 08:44:50] No job IDs collected to save.
+[2024-07-24 08:44:50] No job IDs collected to save.
+[2024-07-24 08:44:50] No job IDs collected to save.
+[2024-07-24 08:44:50] No job IDs collected to save.
+[2024-07-24 08:44:50] No job IDs collected to save.
+[2024-07-24 08:44:51] No job IDs collected to save.
+[2024-07-24 08:44:51] No job IDs collected to save.
+[2024-07-24 08:44:51] No job IDs collected to save.
+[2024-07-24 08:44:51] No job IDs collected to save.
+[2024-07-24 08:44:51] No job IDs collected to save.
+[2024-07-24 08:44:51] No job IDs collected to save.
+[2024-07-24 08:44:51] No job IDs collected to save.
+[2024-07-24 08:44:52] No job IDs collected to save.
+[2024-07-24 08:44:52] No job IDs collected to save.
+[2024-07-24 08:44:52] No job IDs collected to save.
+[2024-07-24 08:44:52] No job IDs collected to save.
+[2024-07-24 08:44:52] No job IDs collected to save.
+[2024-07-24 08:44:52] No job IDs collected to save.
+=== Starting Dice Jobs Scraper Tests for keyword: "Artificial Intelligence" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "AI Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Data Scientist" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Data Science" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "ML Researcher" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Deep Learning Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Data Analyst" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "AI Researcher" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "NLP Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Computer Vision Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Data Mining Specialist" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Statistical Analyst" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Quantitative Analyst" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Predictive Modeler" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "AI/ML Developer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "LLM Specialist" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Machine Learning Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Machine Learning" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Applied Scientist" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Research Scientist" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "ML Ops Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "AI Solutions Architect" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Machine Learning Developer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "AI/ML Consultant" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Business Intelligence Analyst" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Analytics Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Data Science Manager" ===
+[2024-07-24 08:44:54] Fetching jobs for keyword: "Deep Learning Engineer"
+[2024-07-24 08:44:55] Stopping search loop for keyword: "Deep Learning Engineer"
+[2024-07-24 08:45:05] Job ID 4293b64d-a3cc-41e6-9462-e69d48c707c2 added to set for keyword "Deep Learning Engineer"
+[2024-07-24 08:45:05] Job ID 7766843f-ce19-4897-a6be-7d6a608ca45f added to set for keyword "Deep Learning Engineer"
+[2024-07-24 08:45:05] Job ID 6b8a30ba-cf74-48a5-b62e-70f8bf0a35d0 added to set for keyword "Deep Learning Engineer"
+[2024-07-24 08:45:05] Job ID 2b4218b6-4fc0-4fa4-85da-c59004041091 added to set for keyword "Deep Learning Engineer"
+[2024-07-24 08:45:05] Job ID e8c87c4e-528a-4b39-90d4-f89df65c05ff added to set for keyword "Deep Learning Engineer"
+[2024-07-24 08:45:05] Job ID 22b38dce-55e6-494f-857b-3ba0788e1088 added to set for keyword "Deep Learning Engineer"
+[2024-07-24 08:45:05] Job ID 9bf6bd08-e1c8-41b9-9dc6-ff034e23d1f8 added to set for keyword "Deep Learning Engineer"
+[2024-07-24 08:45:05] Job ID 9900a387-486b-4f3d-b65e-aab24d62e729 added to set for keyword "Deep Learning Engineer"
+[2024-07-24 08:45:05] Job ID feb5c99d-f3fe-4729-94fd-9f97439e6b27 added to set for keyword "Deep Learning Engineer"
+[2024-07-24 08:45:05] Job ID 3dcb537f-775a-4944-be38-e9d6125e68b1 added to set for keyword "Deep Learning Engineer"
+[2024-07-24 08:45:05] Job ID 8c86a336-17e5-409b-b167-e0031bc9911b added to set for keyword "Deep Learning Engineer"
+[2024-07-24 08:45:05] Job ID edf192f7-89a2-498c-876f-52dacfc6a8f1 added to set for keyword "Deep Learning Engineer"
+[2024-07-24 08:45:05] Job ID 99403348-c06d-40d8-9380-e88d3a05f633 added to set for keyword "Deep Learning Engineer"
+[2024-07-24 08:45:05] Job ID 1014332d-c53e-48a5-8922-66b5acf17652 added to set for keyword "Deep Learning Engineer"
+[2024-07-24 08:45:05] Job ID 1bb75771-9de4-4610-b2b4-fdd0624fa340 added to set for keyword "Deep Learning Engineer"
+[2024-07-24 08:45:05] Job ID 2a5a99b6-3e54-49f4-a684-b407d7036b13 added to set for keyword "Deep Learning Engineer"
+[2024-07-24 08:45:05] Job ID dd454d06-b69e-400a-a8a7-412f90f332d8 added to set for keyword "Deep Learning Engineer"
+[2024-07-24 08:45:05] Job ID 4b3293ee-f868-43d9-a6e8-5fe7831c56a4 added to set for keyword "Deep Learning Engineer"
+[2024-07-24 08:45:05] Job ID cd1baa74-20bb-493c-b02c-2eda37a87b01 added to set for keyword "Deep Learning Engineer"
+[2024-07-24 08:45:05] Job ID ce6b024d-c273-4b4e-bda8-c6b786ce7529 added to set for keyword "Deep Learning Engineer"
+[2024-07-24 08:45:06] No job IDs collected to save.
+[2024-07-24 08:45:07] No job IDs collected to save.
+[2024-07-24 08:45:07] No job IDs collected to save.
+[2024-07-24 08:45:07] No job IDs collected to save.
+[2024-07-24 08:45:07] No job IDs collected to save.
+[2024-07-24 08:45:07] === Job IDs saved to: cypress/fixtures/extracted/2024-07-24-08-43-22-Deep Learning Engineer.json ===
+[2024-07-24 08:45:07] No job IDs collected to save.
+[2024-07-24 08:45:07] No job IDs collected to save.
+[2024-07-24 08:45:08] No job IDs collected to save.
+[2024-07-24 08:45:08] No job IDs collected to save.
+[2024-07-24 08:45:08] No job IDs collected to save.
+[2024-07-24 08:45:08] No job IDs collected to save.
+[2024-07-24 08:45:09] No job IDs collected to save.
+[2024-07-24 08:45:09] No job IDs collected to save.
+[2024-07-24 08:45:09] No job IDs collected to save.
+[2024-07-24 08:45:09] No job IDs collected to save.
+[2024-07-24 08:45:09] No job IDs collected to save.
+[2024-07-24 08:45:09] No job IDs collected to save.
+[2024-07-24 08:45:09] No job IDs collected to save.
+[2024-07-24 08:45:09] No job IDs collected to save.
+[2024-07-24 08:45:09] No job IDs collected to save.
+[2024-07-24 08:45:10] No job IDs collected to save.
+[2024-07-24 08:45:10] No job IDs collected to save.
+[2024-07-24 08:45:10] No job IDs collected to save.
+[2024-07-24 08:45:10] No job IDs collected to save.
+[2024-07-24 08:45:10] No job IDs collected to save.
+[2024-07-24 08:45:10] No job IDs collected to save.
+=== Starting Dice Jobs Scraper Tests for keyword: "Artificial Intelligence" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "AI Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Data Scientist" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Data Science" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "ML Researcher" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Deep Learning Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Data Analyst" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "AI Researcher" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "NLP Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Computer Vision Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Data Mining Specialist" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Statistical Analyst" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Quantitative Analyst" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Predictive Modeler" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "AI/ML Developer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "LLM Specialist" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Machine Learning Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Machine Learning" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Applied Scientist" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Research Scientist" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "ML Ops Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "AI Solutions Architect" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Machine Learning Developer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "AI/ML Consultant" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Business Intelligence Analyst" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Analytics Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Data Science Manager" ===
+[2024-07-24 08:45:12] Fetching jobs for keyword: "Data Analyst"
+[2024-07-24 08:45:12] Stopping search loop for keyword: "Data Analyst"
+[2024-07-24 08:45:20] Job ID 8f7596ca-6e34-4b54-bc51-4771b3a77371 added to set for keyword "Data Analyst"
+[2024-07-24 08:45:20] Job ID 771d55a8-4a35-42f6-b5de-a7274b535b58 added to set for keyword "Data Analyst"
+[2024-07-24 08:45:20] Job ID 711eb962-1a90-4e18-95b3-93fce26b114f added to set for keyword "Data Analyst"
+[2024-07-24 08:45:20] Job ID 25804c6b-e09c-476c-8b24-cfa57a36f12c added to set for keyword "Data Analyst"
+[2024-07-24 08:45:20] Job ID a19c3ddd-2c33-4979-83b2-35239bd68b2a added to set for keyword "Data Analyst"
+[2024-07-24 08:45:20] Job ID 90ead6db-f420-4b4d-b8c4-119836ef19fc added to set for keyword "Data Analyst"
+[2024-07-24 08:45:20] Job ID d6727e26-bbba-4ffe-857c-c44c68baaa91 added to set for keyword "Data Analyst"
+[2024-07-24 08:45:20] Job ID fcac226f-0dcd-4200-83d9-57ea117c7e4c added to set for keyword "Data Analyst"
+[2024-07-24 08:45:20] Job ID 4025ce33-3c09-4712-b0d3-32415ce1e595 added to set for keyword "Data Analyst"
+[2024-07-24 08:45:20] Job ID ad1886d2-6604-44eb-95f1-d0095431abfb added to set for keyword "Data Analyst"
+[2024-07-24 08:45:20] Job ID 30aa3a23-8319-4474-9cfb-a5172f5dae8e added to set for keyword "Data Analyst"
+[2024-07-24 08:45:20] Job ID 27de001d-1ae1-4f79-9543-6de7a86b2000 added to set for keyword "Data Analyst"
+[2024-07-24 08:45:20] Job ID c9dd41aa-6e57-434c-b3b3-5df36ab264c8 added to set for keyword "Data Analyst"
+[2024-07-24 08:45:20] Job ID b96310ef-cea0-459c-9581-0c4e4908aa85 added to set for keyword "Data Analyst"
+[2024-07-24 08:45:20] Job ID 9bade567-0dcc-4145-956e-90fa2a1c8bfb added to set for keyword "Data Analyst"
+[2024-07-24 08:45:20] Job ID 669837f0-2ad6-4d4e-a76d-50deb5ea0027 added to set for keyword "Data Analyst"
+[2024-07-24 08:45:20] Job ID 6efe2753-51e3-45f5-84ad-57d36fabcfe4 added to set for keyword "Data Analyst"
+[2024-07-24 08:45:20] Job ID 87b9ee68-c7f6-4b6b-9411-050c3e996620 added to set for keyword "Data Analyst"
+[2024-07-24 08:45:20] Job ID d1b8711d-5147-4c9d-971c-d2edadd5e60c added to set for keyword "Data Analyst"
+[2024-07-24 08:45:20] Job ID 64a22476-d275-48f6-8875-9dbbb6f5e708 added to set for keyword "Data Analyst"
+[2024-07-24 08:45:22] No job IDs collected to save.
+[2024-07-24 08:45:22] No job IDs collected to save.
+[2024-07-24 08:45:22] No job IDs collected to save.
+[2024-07-24 08:45:22] No job IDs collected to save.
+[2024-07-24 08:45:22] No job IDs collected to save.
+[2024-07-24 08:45:22] No job IDs collected to save.
+[2024-07-24 08:45:23] === Job IDs saved to: cypress/fixtures/extracted/2024-07-24-08-43-22-Data Analyst.json ===
+[2024-07-24 08:45:23] No job IDs collected to save.
+[2024-07-24 08:45:23] No job IDs collected to save.
+[2024-07-24 08:45:23] No job IDs collected to save.
+[2024-07-24 08:45:23] No job IDs collected to save.
+[2024-07-24 08:45:23] No job IDs collected to save.
+[2024-07-24 08:45:24] No job IDs collected to save.
+[2024-07-24 08:45:24] No job IDs collected to save.
+[2024-07-24 08:45:24] No job IDs collected to save.
+[2024-07-24 08:45:24] No job IDs collected to save.
+[2024-07-24 08:45:24] No job IDs collected to save.
+[2024-07-24 08:45:24] No job IDs collected to save.
+[2024-07-24 08:45:24] No job IDs collected to save.
+[2024-07-24 08:45:25] No job IDs collected to save.
+[2024-07-24 08:45:25] No job IDs collected to save.
+[2024-07-24 08:45:25] No job IDs collected to save.
+[2024-07-24 08:45:25] No job IDs collected to save.
+[2024-07-24 08:45:25] No job IDs collected to save.
+[2024-07-24 08:45:25] No job IDs collected to save.
+[2024-07-24 08:45:26] No job IDs collected to save.
+[2024-07-24 08:45:26] No job IDs collected to save.
+=== Starting Dice Jobs Scraper Tests for keyword: "Artificial Intelligence" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "AI Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Data Scientist" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Data Science" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "ML Researcher" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Deep Learning Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Data Analyst" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "AI Researcher" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "NLP Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Computer Vision Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Data Mining Specialist" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Statistical Analyst" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Quantitative Analyst" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Predictive Modeler" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "AI/ML Developer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "LLM Specialist" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Machine Learning Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Machine Learning" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Applied Scientist" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Research Scientist" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "ML Ops Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "AI Solutions Architect" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Machine Learning Developer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "AI/ML Consultant" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Business Intelligence Analyst" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Analytics Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Data Science Manager" ===
+[2024-07-24 08:45:28] Fetching jobs for keyword: "AI Researcher"
+[2024-07-24 08:45:28] Stopping search loop for keyword: "AI Researcher"
+[2024-07-24 08:45:35] Job ID 2e1aeede-3088-4ae2-bb93-989c9afa34f7 added to set for keyword "AI Researcher"
+[2024-07-24 08:45:35] Job ID 2a58a409-2d21-4c99-ab5a-63f9da04cddb added to set for keyword "AI Researcher"
+[2024-07-24 08:45:35] Job ID bb34722b-e25d-4024-b34b-efd337034cf5 added to set for keyword "AI Researcher"
+[2024-07-24 08:45:35] Job ID 2353f899-3137-4e99-9261-6f609575426f added to set for keyword "AI Researcher"
+[2024-07-24 08:45:35] Job ID 068beebc-7f90-4ee8-b43a-875e20d71c64 added to set for keyword "AI Researcher"
+[2024-07-24 08:45:35] Job ID f879ab1e-5944-4e87-8055-b03e507e72cf added to set for keyword "AI Researcher"
+[2024-07-24 08:45:35] Job ID a4b1a07a-3041-48f2-b297-6e445500a6d6 added to set for keyword "AI Researcher"
+[2024-07-24 08:45:35] Job ID 325894cf-1ff8-4e72-a290-ccb4c06e4499 added to set for keyword "AI Researcher"
+[2024-07-24 08:45:35] Job ID 6de796fe-67d5-4bde-908b-65aaedb0f6bd added to set for keyword "AI Researcher"
+[2024-07-24 08:45:35] Job ID c072cc53-28ad-4408-bb39-7498d4e67b18 added to set for keyword "AI Researcher"
+[2024-07-24 08:45:35] Job ID cb858cb2-99f9-41fd-93ee-48983a8207d7 added to set for keyword "AI Researcher"
+[2024-07-24 08:45:35] Job ID a0b65854-280d-42dd-b4a0-639057db30f9 added to set for keyword "AI Researcher"
+[2024-07-24 08:45:35] Job ID 84ff60c6-9b3a-4869-acdb-f3aaaf0c2a7e added to set for keyword "AI Researcher"
+[2024-07-24 08:45:35] Job ID 0c3a7193-acad-4249-b758-9c6a72f6f882 added to set for keyword "AI Researcher"
+[2024-07-24 08:45:35] Job ID 3c0c415b-0016-4150-9bba-b3543d1634b6 added to set for keyword "AI Researcher"
+[2024-07-24 08:45:35] Job ID c02afd93-9b40-4a54-9271-9c43596987df added to set for keyword "AI Researcher"
+[2024-07-24 08:45:35] Job ID 8159d8eb-6fca-45ca-bc44-3d8b5f96e7e1 added to set for keyword "AI Researcher"
+[2024-07-24 08:45:35] Job ID 00552f13-4390-4670-9775-ea7648ec1aab added to set for keyword "AI Researcher"
+[2024-07-24 08:45:35] Job ID d295d7ea-f347-4848-b8eb-7ce303e2ad71 added to set for keyword "AI Researcher"
+[2024-07-24 08:45:35] Job ID fa65d26d-ba1e-4995-afd4-ff58ab32c103 added to set for keyword "AI Researcher"
+[2024-07-24 08:45:37] No job IDs collected to save.
+[2024-07-24 08:45:37] No job IDs collected to save.
+[2024-07-24 08:45:37] No job IDs collected to save.
+[2024-07-24 08:45:37] No job IDs collected to save.
+[2024-07-24 08:45:37] No job IDs collected to save.
+[2024-07-24 08:45:37] No job IDs collected to save.
+[2024-07-24 08:45:37] No job IDs collected to save.
+[2024-07-24 08:45:38] === Job IDs saved to: cypress/fixtures/extracted/2024-07-24-08-43-22-AI Researcher.json ===
+[2024-07-24 08:45:38] No job IDs collected to save.
+[2024-07-24 08:45:38] No job IDs collected to save.
+[2024-07-24 08:45:38] No job IDs collected to save.
+[2024-07-24 08:45:39] No job IDs collected to save.
+[2024-07-24 08:45:39] No job IDs collected to save.
+[2024-07-24 08:45:39] No job IDs collected to save.
+[2024-07-24 08:45:39] No job IDs collected to save.
+[2024-07-24 08:45:39] No job IDs collected to save.
+[2024-07-24 08:45:39] No job IDs collected to save.
+[2024-07-24 08:45:39] No job IDs collected to save.
+[2024-07-24 08:45:39] No job IDs collected to save.
+[2024-07-24 08:45:40] No job IDs collected to save.
+[2024-07-24 08:45:40] No job IDs collected to save.
+[2024-07-24 08:45:40] No job IDs collected to save.
+[2024-07-24 08:45:40] No job IDs collected to save.
+[2024-07-24 08:45:40] No job IDs collected to save.
+[2024-07-24 08:45:40] No job IDs collected to save.
+[2024-07-24 08:45:40] No job IDs collected to save.
+[2024-07-24 08:45:41] No job IDs collected to save.
+=== Starting Dice Jobs Scraper Tests for keyword: "Artificial Intelligence" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "AI Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Data Scientist" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Data Science" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "ML Researcher" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Deep Learning Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Data Analyst" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "AI Researcher" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "NLP Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Computer Vision Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Data Mining Specialist" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Statistical Analyst" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Quantitative Analyst" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Predictive Modeler" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "AI/ML Developer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "LLM Specialist" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Machine Learning Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Machine Learning" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Applied Scientist" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Research Scientist" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "ML Ops Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "AI Solutions Architect" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Machine Learning Developer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "AI/ML Consultant" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Business Intelligence Analyst" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Analytics Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Data Science Manager" ===
+[2024-07-24 08:45:43] Fetching jobs for keyword: "NLP Engineer"
+[2024-07-24 08:45:43] Stopping search loop for keyword: "NLP Engineer"
+[2024-07-24 08:45:50] Job ID cf275151-3e19-4942-8aa2-3613b860454d added to set for keyword "NLP Engineer"
+[2024-07-24 08:45:50] Job ID f4fc2924-c29e-4ca0-a61a-b693a392dc23 added to set for keyword "NLP Engineer"
+[2024-07-24 08:45:50] Job ID ac36cb5c-34f3-4aa2-aa72-f7356ae908ff added to set for keyword "NLP Engineer"
+[2024-07-24 08:45:50] Job ID 479d99bb-498b-4a77-b2db-64a9e579132b added to set for keyword "NLP Engineer"
+[2024-07-24 08:45:50] Job ID 3e5be81f-30ba-4968-b0b0-2c2eba1d13f1 added to set for keyword "NLP Engineer"
+[2024-07-24 08:45:50] Job ID ea1052b4-bc9a-4d2d-b70e-048f3fb991d2 added to set for keyword "NLP Engineer"
+[2024-07-24 08:45:50] Job ID a28e1d0b-2308-459b-b13f-dfa389e03018 added to set for keyword "NLP Engineer"
+[2024-07-24 08:45:50] Job ID 35d69ca2-23be-448e-8c60-175a2dc553b9 added to set for keyword "NLP Engineer"
+[2024-07-24 08:45:50] Job ID 35a02eb5-af02-4c1d-b70a-dd07bd8cba8d added to set for keyword "NLP Engineer"
+[2024-07-24 08:45:50] Job ID 02697104-88e9-4592-acd0-82310741b1bd added to set for keyword "NLP Engineer"
+[2024-07-24 08:45:50] Job ID 02697104-88e9-4592-acd0-82310741b1bd added to set for keyword "NLP Engineer"
+[2024-07-24 08:45:50] Job ID b5ae4b4f-39de-4d74-a0b5-7b49c12dd6bb added to set for keyword "NLP Engineer"
+[2024-07-24 08:45:50] Job ID 219f9bb3-0328-4095-bb76-44ded380577a added to set for keyword "NLP Engineer"
+[2024-07-24 08:45:50] Job ID 6305bdf4-5db1-4614-aa34-ba81ff85eb72 added to set for keyword "NLP Engineer"
+[2024-07-24 08:45:50] Job ID c3a98a49-8761-42eb-8fee-a897961b9f63 added to set for keyword "NLP Engineer"
+[2024-07-24 08:45:50] Job ID 05a83380-8538-4088-976a-bdc717d24d86 added to set for keyword "NLP Engineer"
+[2024-07-24 08:45:50] Job ID 6293d37c-7cf0-44f0-872a-37d17f95ec27 added to set for keyword "NLP Engineer"
+[2024-07-24 08:45:50] Job ID 5b07f7fb-288c-41a7-96d8-280e35f8ecf6 added to set for keyword "NLP Engineer"
+[2024-07-24 08:45:50] Job ID 49e7cf13-3200-420d-a5ee-7c646c152619 added to set for keyword "NLP Engineer"
+[2024-07-24 08:45:50] Job ID e0af4dc9-a6a2-4452-a670-105771aa72ef added to set for keyword "NLP Engineer"
+[2024-07-24 08:45:52] No job IDs collected to save.
+[2024-07-24 08:45:52] No job IDs collected to save.
+[2024-07-24 08:45:52] No job IDs collected to save.
+[2024-07-24 08:45:52] No job IDs collected to save.
+[2024-07-24 08:45:52] No job IDs collected to save.
+[2024-07-24 08:45:52] No job IDs collected to save.
+[2024-07-24 08:45:52] No job IDs collected to save.
+[2024-07-24 08:45:52] No job IDs collected to save.
+[2024-07-24 08:45:53] === Job IDs saved to: cypress/fixtures/extracted/2024-07-24-08-43-22-NLP Engineer.json ===
+[2024-07-24 08:45:53] No job IDs collected to save.
+[2024-07-24 08:45:53] No job IDs collected to save.
+[2024-07-24 08:45:53] No job IDs collected to save.
+[2024-07-24 08:45:53] No job IDs collected to save.
+[2024-07-24 08:45:54] No job IDs collected to save.
+[2024-07-24 08:45:54] No job IDs collected to save.
+[2024-07-24 08:45:54] No job IDs collected to save.
+[2024-07-24 08:45:54] No job IDs collected to save.
+[2024-07-24 08:45:54] No job IDs collected to save.
+[2024-07-24 08:45:54] No job IDs collected to save.
+[2024-07-24 08:45:54] No job IDs collected to save.
+[2024-07-24 08:45:55] No job IDs collected to save.
+[2024-07-24 08:45:55] No job IDs collected to save.
+[2024-07-24 08:45:55] No job IDs collected to save.
+[2024-07-24 08:45:55] No job IDs collected to save.
+[2024-07-24 08:45:55] No job IDs collected to save.
+[2024-07-24 08:45:55] No job IDs collected to save.
+[2024-07-24 08:45:56] No job IDs collected to save.
+=== Starting Dice Jobs Scraper Tests for keyword: "Artificial Intelligence" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "AI Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Data Scientist" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Data Science" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "ML Researcher" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Deep Learning Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Data Analyst" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "AI Researcher" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "NLP Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Computer Vision Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Data Mining Specialist" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Statistical Analyst" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Quantitative Analyst" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Predictive Modeler" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "AI/ML Developer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "LLM Specialist" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Machine Learning Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Machine Learning" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Applied Scientist" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Research Scientist" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "ML Ops Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "AI Solutions Architect" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Machine Learning Developer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "AI/ML Consultant" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Business Intelligence Analyst" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Analytics Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Data Science Manager" ===
+[2024-07-24 08:45:58] Fetching jobs for keyword: "Computer Vision Engineer"
+[2024-07-24 08:45:58] Stopping search loop for keyword: "Computer Vision Engineer"
+[2024-07-24 08:46:04] Job ID d9e2abde-234d-4507-93d5-6c380c55311a added to set for keyword "Computer Vision Engineer"
+[2024-07-24 08:46:04] Job ID c4b8997b-215b-4afe-8479-08c02e72cabe added to set for keyword "Computer Vision Engineer"
+[2024-07-24 08:46:04] Job ID 01b5a4e4-ecec-4f33-accc-73b31a6486ed added to set for keyword "Computer Vision Engineer"
+[2024-07-24 08:46:04] Job ID 635b586f-ca74-4921-be0c-64a55c1b11fb added to set for keyword "Computer Vision Engineer"
+[2024-07-24 08:46:04] Job ID f94c96d0-27cc-49bf-b171-5eb00ad30d7b added to set for keyword "Computer Vision Engineer"
+[2024-07-24 08:46:04] Job ID 3a2aba5c-91e6-4efe-8cf6-3a28ac9635e7 added to set for keyword "Computer Vision Engineer"
+[2024-07-24 08:46:04] Job ID 7d8f5502-a623-437e-8fc4-4e415358f240 added to set for keyword "Computer Vision Engineer"
+[2024-07-24 08:46:04] Job ID 5b50e87e-a646-4895-b5c6-0a16db8180e0 added to set for keyword "Computer Vision Engineer"
+[2024-07-24 08:46:04] Job ID 47ff3136-6da8-4da4-95fb-cbe9e35b82d9 added to set for keyword "Computer Vision Engineer"
+[2024-07-24 08:46:04] Job ID 1b4f412a-b958-4665-996e-e938b5eccd1b added to set for keyword "Computer Vision Engineer"
+[2024-07-24 08:46:04] Job ID 17e8cb4a-d354-4251-bf58-6ebfa5ebbee1 added to set for keyword "Computer Vision Engineer"
+[2024-07-24 08:46:04] Job ID aaec575e-f831-4af6-a82f-0ad805e5bdc3 added to set for keyword "Computer Vision Engineer"
+[2024-07-24 08:46:04] Job ID ecebdb06-e523-46aa-ba43-423eb7631e41 added to set for keyword "Computer Vision Engineer"
+[2024-07-24 08:46:04] Job ID 9b36c667-52ba-4c94-9462-bc092ac27a1e added to set for keyword "Computer Vision Engineer"
+[2024-07-24 08:46:04] Job ID b2f12f5a-7209-4fa3-b69e-67f28af1497a added to set for keyword "Computer Vision Engineer"
+[2024-07-24 08:46:04] Job ID 4ffcb733-16ab-4a7b-b1e4-ef94271f1de1 added to set for keyword "Computer Vision Engineer"
+[2024-07-24 08:46:04] Job ID f8b358cd-c146-42f2-a639-b3d366d7ddd4 added to set for keyword "Computer Vision Engineer"
+[2024-07-24 08:46:04] Job ID 35e86b28-fa4e-49d5-ae07-b7851ab01fac added to set for keyword "Computer Vision Engineer"
+[2024-07-24 08:46:04] Job ID 8e9ceab7-98b2-4436-a3eb-7af469aeb3b1 added to set for keyword "Computer Vision Engineer"
+[2024-07-24 08:46:04] Job ID 12c31769-a570-4225-bb84-4bbd0f1b883e added to set for keyword "Computer Vision Engineer"
+[2024-07-24 08:46:06] No job IDs collected to save.
+[2024-07-24 08:46:06] No job IDs collected to save.
+[2024-07-24 08:46:06] No job IDs collected to save.
+[2024-07-24 08:46:06] No job IDs collected to save.
+[2024-07-24 08:46:07] No job IDs collected to save.
+[2024-07-24 08:46:07] No job IDs collected to save.
+[2024-07-24 08:46:07] No job IDs collected to save.
+[2024-07-24 08:46:07] No job IDs collected to save.
+[2024-07-24 08:46:07] No job IDs collected to save.
+[2024-07-24 08:46:07] === Job IDs saved to: cypress/fixtures/extracted/2024-07-24-08-43-22-Computer Vision Engineer.json ===
+[2024-07-24 08:46:08] No job IDs collected to save.
+[2024-07-24 08:46:08] No job IDs collected to save.
+[2024-07-24 08:46:08] No job IDs collected to save.
+[2024-07-24 08:46:08] No job IDs collected to save.
+[2024-07-24 08:46:08] No job IDs collected to save.
+[2024-07-24 08:46:08] No job IDs collected to save.
+[2024-07-24 08:46:09] No job IDs collected to save.
+[2024-07-24 08:46:09] No job IDs collected to save.
+[2024-07-24 08:46:09] No job IDs collected to save.
+[2024-07-24 08:46:09] No job IDs collected to save.
+[2024-07-24 08:46:09] No job IDs collected to save.
+[2024-07-24 08:46:09] No job IDs collected to save.
+[2024-07-24 08:46:09] No job IDs collected to save.
+[2024-07-24 08:46:09] No job IDs collected to save.
+[2024-07-24 08:46:09] No job IDs collected to save.
+[2024-07-24 08:46:10] No job IDs collected to save.
+[2024-07-24 08:46:10] No job IDs collected to save.
+=== Starting Dice Jobs Scraper Tests for keyword: "Artificial Intelligence" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "AI Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Data Scientist" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Data Science" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "ML Researcher" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Deep Learning Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Data Analyst" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "AI Researcher" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "NLP Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Computer Vision Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Data Mining Specialist" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Statistical Analyst" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Quantitative Analyst" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Predictive Modeler" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "AI/ML Developer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "LLM Specialist" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Machine Learning Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Machine Learning" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Applied Scientist" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Research Scientist" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "ML Ops Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "AI Solutions Architect" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Machine Learning Developer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "AI/ML Consultant" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Business Intelligence Analyst" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Analytics Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Data Science Manager" ===
+[2024-07-24 08:46:12] Fetching jobs for keyword: "Data Mining Specialist"
+[2024-07-24 08:46:12] Stopping search loop for keyword: "Data Mining Specialist"
+[2024-07-24 08:46:19] Job ID 1ba89d14-a104-433d-a1d7-fc227985a958 added to set for keyword "Data Mining Specialist"
+[2024-07-24 08:46:19] Job ID d03a44c7-2e4c-4a10-89d7-07b73cd380b0 added to set for keyword "Data Mining Specialist"
+[2024-07-24 08:46:19] Job ID 96a92cdf-ccda-49d3-b9fc-16d607b86fdb added to set for keyword "Data Mining Specialist"
+[2024-07-24 08:46:19] Job ID eabb1796-d08e-469e-beac-1f5c0e43f6e8 added to set for keyword "Data Mining Specialist"
+[2024-07-24 08:46:19] Job ID 6103ec1a-9fcc-47e8-8642-c1a57515c804 added to set for keyword "Data Mining Specialist"
+[2024-07-24 08:46:19] Job ID 5fb7c057-2cdc-4692-95d1-08c07f89ad3d added to set for keyword "Data Mining Specialist"
+[2024-07-24 08:46:19] Job ID 191a72c5-ee59-46a0-81b1-e1084539c6a2 added to set for keyword "Data Mining Specialist"
+[2024-07-24 08:46:19] Job ID 81a8a0b3-4f79-4150-874f-7ee283280ea6 added to set for keyword "Data Mining Specialist"
+[2024-07-24 08:46:19] Job ID da871641-7d37-4dbe-ad7e-36ed369ed830 added to set for keyword "Data Mining Specialist"
+[2024-07-24 08:46:19] Job ID 241fde9b-4838-4b83-abd9-885ddafd35a3 added to set for keyword "Data Mining Specialist"
+[2024-07-24 08:46:19] Job ID 55b2fa45-0951-469e-9941-8ee13a653a8d added to set for keyword "Data Mining Specialist"
+[2024-07-24 08:46:19] Job ID b9dbbac8-c48d-48f7-a78a-6b54dd259e00 added to set for keyword "Data Mining Specialist"
+[2024-07-24 08:46:19] Job ID 711d57b8-da56-41fb-bc06-9891f403ac94 added to set for keyword "Data Mining Specialist"
+[2024-07-24 08:46:19] Job ID 92b2ed2a-0f76-4c2a-870b-818d34516d4c added to set for keyword "Data Mining Specialist"
+[2024-07-24 08:46:19] Job ID c325fcc6-30ba-488d-8d89-737a1bf93a27 added to set for keyword "Data Mining Specialist"
+[2024-07-24 08:46:19] Job ID e3af5afd-539e-4c9e-9450-4cfc83e7b82b added to set for keyword "Data Mining Specialist"
+[2024-07-24 08:46:19] Job ID 2125dd0f-f664-42e0-8ab4-145257780d52 added to set for keyword "Data Mining Specialist"
+[2024-07-24 08:46:19] Job ID a6585f52-0e29-4eb3-ba6c-60cc61b58c2a added to set for keyword "Data Mining Specialist"
+[2024-07-24 08:46:19] Job ID 79412e3b-de5c-4f9d-b443-94e7ac9df079 added to set for keyword "Data Mining Specialist"
+[2024-07-24 08:46:19] Job ID 7995932b-e9e7-4c2f-9294-1acdab61788f added to set for keyword "Data Mining Specialist"
+[2024-07-24 08:46:21] No job IDs collected to save.
+[2024-07-24 08:46:21] No job IDs collected to save.
+[2024-07-24 08:46:21] No job IDs collected to save.
+[2024-07-24 08:46:22] No job IDs collected to save.
+[2024-07-24 08:46:22] No job IDs collected to save.
+[2024-07-24 08:46:22] No job IDs collected to save.
+[2024-07-24 08:46:22] No job IDs collected to save.
+[2024-07-24 08:46:22] No job IDs collected to save.
+[2024-07-24 08:46:22] No job IDs collected to save.
+[2024-07-24 08:46:22] No job IDs collected to save.
+[2024-07-24 08:46:23] === Job IDs saved to: cypress/fixtures/extracted/2024-07-24-08-43-22-Data Mining Specialist.json ===
+[2024-07-24 08:46:23] No job IDs collected to save.
+[2024-07-24 08:46:23] No job IDs collected to save.
+[2024-07-24 08:46:23] No job IDs collected to save.
+[2024-07-24 08:46:23] No job IDs collected to save.
+[2024-07-24 08:46:23] No job IDs collected to save.
+[2024-07-24 08:46:23] No job IDs collected to save.
+[2024-07-24 08:46:23] No job IDs collected to save.
+[2024-07-24 08:46:24] No job IDs collected to save.
+[2024-07-24 08:46:24] No job IDs collected to save.
+[2024-07-24 08:46:24] No job IDs collected to save.
+[2024-07-24 08:46:24] No job IDs collected to save.
+[2024-07-24 08:46:24] No job IDs collected to save.
+[2024-07-24 08:46:24] No job IDs collected to save.
+[2024-07-24 08:46:25] No job IDs collected to save.
+[2024-07-24 08:46:25] No job IDs collected to save.
+[2024-07-24 08:46:25] No job IDs collected to save.
+=== Starting Dice Jobs Scraper Tests for keyword: "Artificial Intelligence" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "AI Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Data Scientist" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Data Science" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "ML Researcher" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Deep Learning Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Data Analyst" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "AI Researcher" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "NLP Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Computer Vision Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Data Mining Specialist" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Statistical Analyst" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Quantitative Analyst" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Predictive Modeler" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "AI/ML Developer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "LLM Specialist" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Machine Learning Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Machine Learning" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Applied Scientist" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Research Scientist" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "ML Ops Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "AI Solutions Architect" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Machine Learning Developer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "AI/ML Consultant" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Business Intelligence Analyst" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Analytics Engineer" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Data Science Manager" ===
+[2024-07-24 08:46:27] Fetching jobs for keyword: "Statistical Analyst"
+[2024-07-24 08:46:27] Stopping search loop for keyword: "Statistical Analyst"

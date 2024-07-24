@@ -1,6 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 const { getFilesFromDirectory } = require('./getFiles');
+
 // Function to append message to a file
 const appendToFile = (filePath, message) => {
   try {
@@ -11,12 +12,14 @@ const appendToFile = (filePath, message) => {
     return false;
   }
 };
+
 function ensureDirectoryExistence(filePath) {
   const dirname = path.dirname(filePath);
   if (!fs.existsSync(dirname)) {
     fs.mkdirSync(dirname, { recursive: true });
   }
 }
+
 // Function to convert JSON to CSV format
 function convertToCSV(data, headers) {
   const csvRows = [];
@@ -53,10 +56,10 @@ function writeCSV(filePath, data, headers, append = true) {
 // Define custom Cypress commands for file system operations
 module.exports = (on, config) => {
   on('task', {
-          ensureDirectoryExistence(filePath) {
-          ensureDirectoryExistence(filePath);
-          return null;
-        },
+    ensureDirectoryExistence(filePath) {
+      ensureDirectoryExistence(filePath);
+      return null;
+    },
     readJsonFile(filePath) {
       try {
         const fileContent = fs.readFileSync(filePath, 'utf8');
@@ -90,7 +93,7 @@ module.exports = (on, config) => {
       return null;
     },
     logApplicationInfo(message) {
-      const logPath = path.join(__dirname, '..',  'applylogs', 'info.log');
+      const logPath = path.join(__dirname, '..', 'applylogs', 'info.log');
       ensureDirectoryExistence(logPath);
       appendToFile(logPath, message);
       return null;
@@ -106,6 +109,19 @@ module.exports = (on, config) => {
     },
     getFilesFromDirectory(directory) {
       return getFilesFromDirectory(directory);
+    },
+    deleteFile(filePath) {
+      return new Promise((resolve, reject) => {
+        fs.unlink(filePath, (err) => {
+          if (err) {
+            return reject(err);
+          }
+          resolve(null);
+        });
+      });
+    },
+    exitProcess() {
+      process.exit(0);
     }
   });
 

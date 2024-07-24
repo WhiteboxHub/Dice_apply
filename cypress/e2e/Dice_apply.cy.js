@@ -1,33 +1,28 @@
-// cypress/integration/example.spec.js
-
 describe('Apply for Jobs', () => {
-    let files = [];
+    let jobIds = [];
 
-    beforeEach(() => {
+    before(() => {
         // Ensure session management is correctly set up
         cy.session('login', () => {
             cy.loginDice(); // Custom command to login
         });
 
-        // Read all files from 'cypress/fixtures/extracted' directory
-        cy.task('getFilesFromDirectory', 'cypress/fixtures/extracted').then((filePaths) => {
-            files = filePaths;
+        // Read the file specified in the environment variable
+        const filePath = Cypress.env('file');
+        cy.task('readJsonFile', filePath).then((data) => {
+            jobIds = data.ids; // Assuming JSON structure { "ids": [...] }
         });
     });
 
-    it("Applies for jobs using Easy Apply for each file", () => {
-        // Iterate through each file
-        cy.wrap(files).each((filePath) => {
-            cy.readFile(filePath).then((data) => {
-                const jobIds = data.ids; // Assuming JSON structure { "ids": [...] }
-
-                // Iterate through each job ID and apply for job
-                cy.wrap(jobIds).each((currentJobId) => {
-                    const timestamp = new Date().toISOString().replace(/T/, ' ').replace(/\..+/, '');
-                    const status = ' '; 
-                     cy.applyForJob({ jobId: currentJobId, timestamp, status }); // Custom Cypress command to apply for the job
-                });
-            });
+    it('Applies for jobs using Easy Apply for each job ID in the file', () => {
+        // Iterate through each job ID and apply for job
+        cy.wrap(jobIds).each((currentJobId) => {
+            const timestamp = new Date().toISOString().replace(/T/, ' ').replace(/\..+/, '');
+            const status = ' ';
+            cy.applyForJob({ jobId: currentJobId, timestamp, status }); // Custom Cypress command to apply for the job
+        }).then(() => {
+            // Close the browser session after processing each file
+            cy.reload();
         });
     });
 });
