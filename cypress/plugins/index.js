@@ -23,7 +23,6 @@ function ensureDirectoryExistence(filePath) {
 // Function to convert JSON to CSV format
 function convertToCSV(data, headers) {
   const csvRows = [];
-  csvRows.push(headers.join(',')); // Add headers row
 
   data.forEach(row => {
     const values = headers.map(header => {
@@ -39,12 +38,23 @@ function convertToCSV(data, headers) {
 // Function to write CSV file
 function writeCSV(filePath, data, headers, append = true) {
   try {
-    const csv = convertToCSV(data, headers);
+    // Ensure data is always an array
+    const dataArray = Array.isArray(data) ? data : [data];
+    const csv = convertToCSV(dataArray, headers); // Convert data to CSV format
 
     // Determine write mode
     const options = { flag: append ? 'a' : 'w' };
 
-    fs.writeFileSync(filePath, csv, options);
+    // Check if the file exists and is empty or new
+    const fileExists = fs.existsSync(filePath);
+    const isEmpty = fileExists ? fs.readFileSync(filePath, 'utf8').trim().length === 0 : true;
+
+    // Write header if the file is new or empty
+    if (!fileExists || isEmpty) {
+      fs.writeFileSync(filePath, headers.join(',') + '\n', { flag: 'w' });
+    }
+
+    fs.writeFileSync(filePath, csv + '\n', options);
     console.log('CSV file written successfully');
     return true;
   } catch (err) {

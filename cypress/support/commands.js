@@ -95,7 +95,7 @@ Cypress.Commands.add('applyForJob', ({ jobId, timestamp }) => {
                 });
               } else {
                 // Handle apply button
-                cy.wait(25000);
+                cy.wait(30000);
                 cy.get('.hydrated').shadow().find('button').then($button => {
                   if ($button.length > 0) {
                     const buttonText = $button.text().trim();

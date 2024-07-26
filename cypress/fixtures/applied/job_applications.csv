@@ -1,0 +1,45 @@
+jobId,timestamp,status
+jobId,timestamp,status
+"15ac5049-7f28-4e96-89a0-bb245408c285","2024-07-26 17:01:53","applied"
+jobId,timestamp,status
+"6e3a7747-e9cf-4430-b5de-b2378966d216","2024-07-26 17:01:53","applied"
+jobId,timestamp,status
+"d9d49f03-fd4e-416e-bfc8-5671555efb03","2024-07-26 17:01:53","applied"
+jobId,timestamp,status
+"b634c16d-8064-4066-b0dd-c68d442edbc0","2024-07-26 17:01:53","applied"
+jobId,timestamp,status
+"52f816ba-ef7c-488e-beed-74c96106d6a0","2024-07-26 17:01:53","applied"
+jobId,timestamp,status
+"d2b517b0-f148-4f85-b940-5851ce622c47","2024-07-26 17:01:53","applied"
+jobId,timestamp,status
+"add5755e-a86a-4119-bf04-923b0b634719","2024-07-26 17:01:53","applied"
+jobId,timestamp,status
+"713168ca-07f0-4e37-a395-4d76f1c1733d","2024-07-26 17:01:53","fail"
+jobId,timestamp,status
+"fd506ef5-0326-48df-9fdc-2e21fcab6d48","2024-07-26 17:01:53","applied"
+jobId,timestamp,status
+"12ef07f5-4afb-45fd-ac33-1d99399330b6","2024-07-26 17:01:53","applied"
+jobId,timestamp,status
+"1c0ef1f8-2392-4890-9fe2-7b22165c938e","2024-07-26 17:01:53","applied"
+"06f77a45-43ad-4eb7-8343-242f26f88dbc","2024-07-26 17:13:48","applied"
+"0ace5f51-9815-43c4-8fd5-f3cc85e4da8a","2024-07-26 17:13:48","fail"
+"303f155c-cb69-4565-890d-bb3f863f3d49","2024-07-26 17:13:48","applied"
+"fb79a5be-3471-44f4-8678-c3caefc583de","2024-07-26 17:13:48","applied"
+"8a946a78-c2e4-4fcf-b374-0b9b33eee19e","2024-07-26 17:13:48","applied"
+"7455723a-576f-4cf0-810e-c8f9e495b0f9","2024-07-26 17:13:48","fail"
+"8de26f91-01ef-45fd-ad9a-ac5ec816a186","2024-07-26 17:13:48","applied"
+"9231889f-c894-4f3f-878d-15ef3607c5b6","2024-07-26 17:13:48","applied"
+"5ba37b77-97e9-479d-bb63-ff6ffa7a873c","2024-07-26 17:21:42","applied"
+"9ce704d5-6faf-44fa-a083-00d10f2a4668","2024-07-26 17:21:42","fail"
+"481d0cf5-e0b2-4749-8469-dfd0a6ebdb83","2024-07-26 17:21:42","applied"
+"8a046730-2522-472e-8468-b7df8c099e60","2024-07-26 17:21:42","fail"
+"8b764fa7-c333-42e3-870f-06fe9c0ef99d","2024-07-26 17:21:42","applied"
+"45b6e8e7-3230-4277-97a9-4518a8102836","2024-07-26 17:21:42","applied"
+"be839d85-2973-438f-a4f9-bce6b0dcefda","2024-07-26 17:21:42","applied"
+"091f247a-1895-45d9-b53c-1d4fb10fd16c","2024-07-26 17:21:42","applied"
+"f850feb4-92ec-48aa-a86e-6f146e9a8b2d","2024-07-26 17:21:42","applied"
+"c5b0ffc9-a711-4b23-b84d-f21c3c32c2b8","2024-07-26 17:21:42","fail"
+"239eb449-2baa-416d-8d29-188b35fc16f1","2024-07-26 17:21:42","applied"
+"4634f232-5483-4e4c-80ab-69e4c7225345","2024-07-26 17:34:43","applied"
+"7aec85e4-9808-4782-b78e-3f23e9ddc50d","2024-07-26 17:34:43","applied"
+"94792b94-a8dc-4a3c-8b39-ef83f550bc3d","2024-07-26 17:34:43","no longer available"

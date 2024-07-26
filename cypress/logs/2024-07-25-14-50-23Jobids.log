@@ -1,0 +1,337 @@
+=== Starting Dice Jobs Scraper Tests for keyword: "HTML5" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "CSS3" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "SASS" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "JavaScript (ES5/ES6/ES7/ES8)" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "ReactJS" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "React Native" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Redux" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "React Router" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Bootstrap" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "jQuery" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "D3.js" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Responsive Design" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Single Page Application (SPA)" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "UI Design" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Functional Programming" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Object-Oriented Programming" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Webpack" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Babel" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Grunt" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Jest" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Enzyme" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Lodash" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Promises" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Async/Await" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Redux Thunk" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Redux Form" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Material-UI" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Google Fonts" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "SVG" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "RESTful API" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "React Hooks (useState, useEffect, useContext, useMemo, useRef, useReducer)" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "JSX" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "DOM Manipulation" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "State Management" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "CSS Preprocessors" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Media Queries" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Fluid Layout" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Typography" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Jasmine" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Nightwatch.js" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "JSON" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "AJAX" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "jQuery UI" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "UI-Router" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Custom Directives" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "DOM Traversal" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Event Handling" ===
+[2024-07-25 14:50:27] Fetching jobs for keyword: "HTML5"
+[2024-07-25 14:50:27] Stopping search loop for keyword: "HTML5"
+[2024-07-25 14:50:32] No job IDs collected to save.
+[2024-07-25 14:50:32] No job IDs collected to save.
+[2024-07-25 14:50:32] No job IDs collected to save.
+[2024-07-25 14:50:32] No job IDs collected to save.
+[2024-07-25 14:50:32] No job IDs collected to save.
+[2024-07-25 14:50:32] No job IDs collected to save.
+[2024-07-25 14:50:32] No job IDs collected to save.
+[2024-07-25 14:50:33] No job IDs collected to save.
+[2024-07-25 14:50:33] No job IDs collected to save.
+[2024-07-25 14:50:33] No job IDs collected to save.
+[2024-07-25 14:50:33] No job IDs collected to save.
+[2024-07-25 14:50:33] No job IDs collected to save.
+[2024-07-25 14:50:33] No job IDs collected to save.
+[2024-07-25 14:50:33] No job IDs collected to save.
+[2024-07-25 14:50:33] No job IDs collected to save.
+[2024-07-25 14:50:33] No job IDs collected to save.
+[2024-07-25 14:50:33] No job IDs collected to save.
+[2024-07-25 14:50:33] No job IDs collected to save.
+[2024-07-25 14:50:33] No job IDs collected to save.
+[2024-07-25 14:50:33] No job IDs collected to save.
+[2024-07-25 14:50:33] No job IDs collected to save.
+[2024-07-25 14:50:34] No job IDs collected to save.
+[2024-07-25 14:50:34] No job IDs collected to save.
+[2024-07-25 14:50:34] No job IDs collected to save.
+[2024-07-25 14:50:34] No job IDs collected to save.
+[2024-07-25 14:50:34] No job IDs collected to save.
+[2024-07-25 14:50:34] No job IDs collected to save.
+[2024-07-25 14:50:34] No job IDs collected to save.
+[2024-07-25 14:50:34] No job IDs collected to save.
+[2024-07-25 14:50:34] No job IDs collected to save.
+[2024-07-25 14:50:34] No job IDs collected to save.
+[2024-07-25 14:50:35] No job IDs collected to save.
+[2024-07-25 14:50:35] No job IDs collected to save.
+[2024-07-25 14:50:35] No job IDs collected to save.
+[2024-07-25 14:50:35] No job IDs collected to save.
+[2024-07-25 14:50:35] No job IDs collected to save.
+[2024-07-25 14:50:35] No job IDs collected to save.
+[2024-07-25 14:50:35] No job IDs collected to save.
+[2024-07-25 14:50:35] No job IDs collected to save.
+[2024-07-25 14:50:35] No job IDs collected to save.
+[2024-07-25 14:50:36] No job IDs collected to save.
+[2024-07-25 14:50:36] No job IDs collected to save.
+[2024-07-25 14:50:36] No job IDs collected to save.
+[2024-07-25 14:50:36] No job IDs collected to save.
+[2024-07-25 14:50:36] No job IDs collected to save.
+[2024-07-25 14:50:36] No job IDs collected to save.
+[2024-07-25 14:50:36] No job IDs collected to save.
+=== Starting Dice Jobs Scraper Tests for keyword: "HTML5" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "CSS3" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "SASS" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "JavaScript (ES5/ES6/ES7/ES8)" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "ReactJS" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "React Native" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Redux" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "React Router" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Bootstrap" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "jQuery" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "D3.js" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Responsive Design" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Single Page Application (SPA)" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "UI Design" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Functional Programming" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Object-Oriented Programming" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Webpack" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Babel" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Grunt" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Jest" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Enzyme" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Lodash" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Promises" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Async/Await" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Redux Thunk" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Redux Form" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Material-UI" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Google Fonts" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "SVG" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "RESTful API" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "React Hooks (useState, useEffect, useContext, useMemo, useRef, useReducer)" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "JSX" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "DOM Manipulation" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "State Management" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "CSS Preprocessors" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Media Queries" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Fluid Layout" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Typography" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Jasmine" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Nightwatch.js" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "JSON" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "AJAX" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "jQuery UI" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "UI-Router" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Custom Directives" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "DOM Traversal" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Event Handling" ===
+[2024-07-25 14:50:37] Fetching jobs for keyword: "CSS3"
+[2024-07-25 14:50:37] Stopping search loop for keyword: "CSS3"
+[2024-07-25 14:50:43] No job IDs collected to save.
+[2024-07-25 14:50:43] No job IDs collected to save.
+[2024-07-25 14:50:43] No job IDs collected to save.
+[2024-07-25 14:50:43] No job IDs collected to save.
+[2024-07-25 14:50:43] No job IDs collected to save.
+[2024-07-25 14:50:43] No job IDs collected to save.
+[2024-07-25 14:50:44] No job IDs collected to save.
+[2024-07-25 14:50:44] No job IDs collected to save.
+[2024-07-25 14:50:44] No job IDs collected to save.
+[2024-07-25 14:50:44] No job IDs collected to save.
+[2024-07-25 14:50:44] No job IDs collected to save.
+[2024-07-25 14:50:44] No job IDs collected to save.
+[2024-07-25 14:50:44] No job IDs collected to save.
+[2024-07-25 14:50:44] No job IDs collected to save.
+[2024-07-25 14:50:45] No job IDs collected to save.
+[2024-07-25 14:50:45] No job IDs collected to save.
+[2024-07-25 14:50:45] No job IDs collected to save.
+[2024-07-25 14:50:45] No job IDs collected to save.
+[2024-07-25 14:50:45] No job IDs collected to save.
+[2024-07-25 14:50:45] No job IDs collected to save.
+[2024-07-25 14:50:45] No job IDs collected to save.
+[2024-07-25 14:50:45] No job IDs collected to save.
+[2024-07-25 14:50:46] No job IDs collected to save.
+[2024-07-25 14:50:46] No job IDs collected to save.
+[2024-07-25 14:50:46] No job IDs collected to save.
+[2024-07-25 14:50:46] No job IDs collected to save.
+[2024-07-25 14:50:46] No job IDs collected to save.
+[2024-07-25 14:50:46] No job IDs collected to save.
+[2024-07-25 14:50:46] No job IDs collected to save.
+[2024-07-25 14:50:46] No job IDs collected to save.
+[2024-07-25 14:50:47] No job IDs collected to save.
+[2024-07-25 14:50:47] No job IDs collected to save.
+[2024-07-25 14:50:47] No job IDs collected to save.
+[2024-07-25 14:50:47] No job IDs collected to save.
+[2024-07-25 14:50:47] No job IDs collected to save.
+[2024-07-25 14:50:47] No job IDs collected to save.
+[2024-07-25 14:50:47] No job IDs collected to save.
+[2024-07-25 14:50:47] No job IDs collected to save.
+[2024-07-25 14:50:48] No job IDs collected to save.
+[2024-07-25 14:50:48] No job IDs collected to save.
+[2024-07-25 14:50:48] No job IDs collected to save.
+[2024-07-25 14:50:48] No job IDs collected to save.
+[2024-07-25 14:50:48] No job IDs collected to save.
+[2024-07-25 14:50:48] No job IDs collected to save.
+[2024-07-25 14:50:49] No job IDs collected to save.
+[2024-07-25 14:50:49] No job IDs collected to save.
+[2024-07-25 14:50:49] No job IDs collected to save.
+=== Starting Dice Jobs Scraper Tests for keyword: "HTML5" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "CSS3" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "SASS" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "JavaScript (ES5/ES6/ES7/ES8)" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "ReactJS" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "React Native" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Redux" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "React Router" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Bootstrap" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "jQuery" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "D3.js" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Responsive Design" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Single Page Application (SPA)" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "UI Design" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Functional Programming" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Object-Oriented Programming" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Webpack" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Babel" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Grunt" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Jest" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Enzyme" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Lodash" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Promises" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Async/Await" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Redux Thunk" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Redux Form" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Material-UI" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Google Fonts" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "SVG" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "RESTful API" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "React Hooks (useState, useEffect, useContext, useMemo, useRef, useReducer)" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "JSX" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "DOM Manipulation" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "State Management" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "CSS Preprocessors" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Media Queries" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Fluid Layout" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Typography" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Jasmine" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Nightwatch.js" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "JSON" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "AJAX" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "jQuery UI" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "UI-Router" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Custom Directives" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "DOM Traversal" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Event Handling" ===
+[2024-07-25 14:50:50] Fetching jobs for keyword: "SASS"
+[2024-07-25 14:50:50] Stopping search loop for keyword: "SASS"
+[2024-07-25 14:50:56] No job IDs collected to save.
+[2024-07-25 14:50:56] No job IDs collected to save.
+[2024-07-25 14:50:56] No job IDs collected to save.
+[2024-07-25 14:50:56] No job IDs collected to save.
+[2024-07-25 14:50:56] No job IDs collected to save.
+[2024-07-25 14:50:57] No job IDs collected to save.
+[2024-07-25 14:50:57] No job IDs collected to save.
+[2024-07-25 14:50:57] No job IDs collected to save.
+[2024-07-25 14:50:57] No job IDs collected to save.
+[2024-07-25 14:50:57] No job IDs collected to save.
+[2024-07-25 14:50:58] No job IDs collected to save.
+[2024-07-25 14:50:58] No job IDs collected to save.
+[2024-07-25 14:50:58] No job IDs collected to save.
+[2024-07-25 14:50:58] No job IDs collected to save.
+[2024-07-25 14:50:58] No job IDs collected to save.
+[2024-07-25 14:50:59] No job IDs collected to save.
+[2024-07-25 14:50:59] No job IDs collected to save.
+[2024-07-25 14:50:59] No job IDs collected to save.
+[2024-07-25 14:50:59] No job IDs collected to save.
+[2024-07-25 14:50:59] No job IDs collected to save.
+[2024-07-25 14:51:00] No job IDs collected to save.
+[2024-07-25 14:51:00] No job IDs collected to save.
+[2024-07-25 14:51:00] No job IDs collected to save.
+[2024-07-25 14:51:00] No job IDs collected to save.
+[2024-07-25 14:51:01] No job IDs collected to save.
+[2024-07-25 14:51:01] No job IDs collected to save.
+[2024-07-25 14:51:01] No job IDs collected to save.
+[2024-07-25 14:51:02] No job IDs collected to save.
+[2024-07-25 14:51:02] No job IDs collected to save.
+[2024-07-25 14:51:02] No job IDs collected to save.
+[2024-07-25 14:51:02] No job IDs collected to save.
+[2024-07-25 14:51:03] No job IDs collected to save.
+[2024-07-25 14:51:03] No job IDs collected to save.
+[2024-07-25 14:51:03] No job IDs collected to save.
+[2024-07-25 14:51:03] No job IDs collected to save.
+[2024-07-25 14:51:04] No job IDs collected to save.
+[2024-07-25 14:51:04] No job IDs collected to save.
+[2024-07-25 14:51:04] No job IDs collected to save.
+[2024-07-25 14:51:04] No job IDs collected to save.
+[2024-07-25 14:51:04] No job IDs collected to save.
+[2024-07-25 14:51:05] No job IDs collected to save.
+[2024-07-25 14:51:05] No job IDs collected to save.
+[2024-07-25 14:51:05] No job IDs collected to save.
+[2024-07-25 14:51:06] No job IDs collected to save.
+[2024-07-25 14:51:06] No job IDs collected to save.
+[2024-07-25 14:51:06] No job IDs collected to save.
+[2024-07-25 14:51:06] No job IDs collected to save.
+=== Starting Dice Jobs Scraper Tests for keyword: "HTML5" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "CSS3" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "SASS" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "JavaScript (ES5/ES6/ES7/ES8)" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "ReactJS" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "React Native" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Redux" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "React Router" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Bootstrap" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "jQuery" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "D3.js" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Responsive Design" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Single Page Application (SPA)" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "UI Design" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Functional Programming" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Object-Oriented Programming" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Webpack" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Babel" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Grunt" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Jest" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Enzyme" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Lodash" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Promises" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Async/Await" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Redux Thunk" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Redux Form" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Material-UI" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Google Fonts" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "SVG" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "RESTful API" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "React Hooks (useState, useEffect, useContext, useMemo, useRef, useReducer)" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "JSX" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "DOM Manipulation" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "State Management" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "CSS Preprocessors" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Media Queries" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Fluid Layout" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Typography" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Jasmine" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Nightwatch.js" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "JSON" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "AJAX" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "jQuery UI" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "UI-Router" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Custom Directives" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "DOM Traversal" ===
+=== Starting Dice Jobs Scraper Tests for keyword: "Event Handling" ===
+[2024-07-25 14:51:08] Fetching jobs for keyword: "JavaScript (ES5/ES6/ES7/ES8)"
+[2024-07-25 14:51:08] Stopping search loop for keyword: "JavaScript (ES5/ES6/ES7/ES8)"
