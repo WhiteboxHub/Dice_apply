@@ -2,7 +2,7 @@ const { defineConfig } = require("cypress");
 
 module.exports = defineConfig({
   e2e: {
-    specPattern: "cypress/e2e/**/*.cy.{js,jsx,ts,tsx}",
+    specPattern: "cypress/e2e/**/*.cy.{js,jsx}",
     baseUrl: "https://www.dice.com/",
     includeShadowDom: true,
     pageLoadTimeout: 100000,
